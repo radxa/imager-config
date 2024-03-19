@@ -221,17 +221,17 @@
     "rock-3a_debian_bullseye_xfce_b24": {
       "checksum_method": "sha512",
       "checksum_file": "url",
-      "checksum_url": "https://github.com/radxa-build/rock-3a/releases/download/b25/rock-3a_debian_bullseye_xfce_b24.img.sha512",
+      "checksum_url": "https://github.com/radxa-build/rock-3a/releases/download/b24/rock-3a_debian_bullseye_xfce_b24.img.sha512",
       "extension": "xz",
-      "download_url": "https://github.com/radxa-build/rock-3a/releases/download/b25/rock-3a_debian_bullseye_xfce_b24.img.xz",
+      "download_url": "https://github.com/radxa-build/rock-3a/releases/download/b24/rock-3a_debian_bullseye_xfce_b24.img.xz",
       "size": 894484392
     },
     "rock-3a_debian_bullseye_cli_b24": {
       "checksum_method": "sha512",
       "checksum_file": "url",
-      "checksum_url": "https://github.com/radxa-build/rock-3a/releases/download/b25/rock-3a_debian_bullseye_cli_b24.img.sha512",
+      "checksum_url": "https://github.com/radxa-build/rock-3a/releases/download/b24/rock-3a_debian_bullseye_cli_b24.img.sha512",
       "extension": "xz",
-      "download_url": "https://github.com/radxa-build/rock-3a/releases/download/b25/rock-3a_debian_bullseye_cli_b24.img.xz",
+      "download_url": "https://github.com/radxa-build/rock-3a/releases/download/b24/rock-3a_debian_bullseye_cli_b24.img.xz",
       "size": 322571868
     }
   }
