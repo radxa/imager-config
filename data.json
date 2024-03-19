@@ -1,0 +1,238 @@
+{
+  "devices": [
+    {
+      "serial_id": "Rock 3",
+      "serial_name": "Rock 3",
+      "data": [
+        {
+          "id": "ROCK 3A",
+          "pic_url": "https://wiki.radxa.com/mw/images/thumb/f/f9/Start_3a.png/300px-Start_3a.png",
+          "model": "ROCK 3A",
+          "desc": "A Credit Card Sized SBC with Rich Interfaces"
+        },
+        {
+          "id": "ROCK 3B",
+          "pic_url": "https://wiki.radxa.com/mw/images/thumb/1/15/Start_3b.png/300px-Start_3b.png",
+          "model": "ROCK 3B",
+          "desc": "An Pico-ITX form factor SBC with Multifunctional Interface"
+        },
+        {
+          "id": "ROCK 3C",
+          "pic_url": "https://wiki.radxa.com/mw/images/thumb/1/1a/Start_3c.png/300px-Start_3c.png",
+          "model": "ROCK 3C",
+          "desc": "High-Performance, Low-Cost, RK3566 Inside!"
+        }
+      ]
+    },
+    {
+      "serial_id": "Rock 4",
+      "serial_name": "Rock 4",
+      "data": [
+        {
+          "id": "ROCK 4A",
+          "pic_url": "https://wiki.radxa.com/mw/images/thumb/e/e9/ROCK_4AB.gif/300px-ROCK_4AB.gif",
+          "model": "ROCK 4A",
+          "desc": "A Cost-Effective SBC with Dual Display and 4K"
+        },
+        {
+          "id": "ROCK 4A+",
+          "pic_url": "https://wiki.radxa.com/mw/images/thumb/f/f1/ROCK_4AB_Plus.gif/300px-ROCK_4AB_Plus.gif",
+          "model": "ROCK 4A+",
+          "desc": "A Cost-Effective SBC with Dual Display and 4K"
+        },
+        {
+          "id": "ROCK 4B",
+          "pic_url": "https://wiki.radxa.com/mw/images/thumb/e/e9/ROCK_4AB.gif/300px-ROCK_4AB.gif",
+          "model": "ROCK 4B",
+          "desc": "A Cost-Effective SBC with Dual Display and 4K"
+        },
+        {
+          "id": "ROCK 4B+",
+          "pic_url": "https://wiki.radxa.com/mw/images/thumb/f/f1/ROCK_4AB_Plus.gif/300px-ROCK_4AB_Plus.gif",
+          "model": "ROCK 4B+",
+          "desc": "A Cost-Effective SBC with Dual Display and 4K"
+        },
+        {
+          "id": "ROCK 4C",
+          "pic_url": "https://wiki.radxa.com/mw/images/thumb/a/a8/ROCK_4C.png/300px-ROCK_4C.png",
+          "model": "ROCK 4C",
+          "desc": "A Cost-Effective SBC with Dual Display and 4K"
+        },
+        {
+          "id": "ROCK 4C+",
+          "pic_url": "https://wiki.radxa.com/mw/images/thumb/7/7a/ROCK_4C_Plus.png/300px-ROCK_4C_Plus.png",
+          "model": "ROCK 4C+",
+          "desc": "A Cost-Effective SBC with Dual Display and 4K"
+        },
+        {
+          "id": "ROCK 4SE",
+          "pic_url": "https://wiki.radxa.com/mw/images/thumb/d/d8/ROCK_4SE.png/300px-ROCK_4SE.png",
+          "model": "ROCK 4SE",
+          "desc": "A Cost-Effective SBC with Dual Display and 4K"
+        }
+      ]
+    },
+    {
+      "serial_id": "Rock 5",
+      "serial_name": "Rock 5",
+      "data": [
+        {
+          "id": "ROCK 5A",
+          "pic_url": "https://wiki.radxa.com/mw/images/thumb/6/6d/Start_5a.png/300px-Start_5a.png",
+          "model": "ROCK 5A",
+          "desc": "A Cost-Effective SBC with Dual Display and 4K"
+        },
+        {
+          "id": "ROCK 5B",
+          "pic_url": "https://wiki.radxa.com/mw/images/thumb/2/25/Start_5b.png/300px-Start_5b.png",
+          "model": "ROCK 5B",
+          "desc": "A Cost-Effective SBC with Dual Display and 4K"
+        }
+      ]
+    },
+    {
+      "serial_id": "Zero",
+      "serial_name": "Zero",
+      "data": [
+        {
+          "id": "ZERO 3E",
+          "pic_url": "https://radxa.com/zero/3e/thumb_zero3e.webp",
+          "model": "ZERO 3E",
+          "desc": "A Cost-Effective SBC with Dual Display and 4K"
+        },
+        {
+          "id": "ZERO 3W",
+          "pic_url": "https://radxa.com/zero/3w/thumb_zero3w.webp",
+          "model": "ZERO 3W",
+          "desc": "A Cost-Effective SBC with Dual Display and 4K"
+        },
+        {
+          "id": "ZERO 2 Pro",
+          "pic_url": "https://radxa.com/zero/zero2pro/thumb_zero2pro.webp",
+          "model": "ZERO 2 Pro",
+          "desc": "A Cost-Effective SBC with Dual Display and 4K"
+        },
+        {
+          "id": "ZERO",
+          "pic_url": "https://radxa.com/zero/zero/thumb_zero.webp",
+          "model": "ZERO",
+          "desc": "A Cost-Effective SBC with Dual Display and 4K"
+        }
+      ]
+    },
+    {
+      "serial_id": "Compute Module",
+      "serial_name": "Compute Module",
+      "data": [
+        {
+          "id": "Radxa NX5",
+          "pic_url": "https://radxa.com/compute-module/nx5/thumb_nx5.webp",
+          "model": "Radxa NX5",
+          "desc": "A Cost-Effective SBC with Dual Display and 4K"
+        },
+        {
+          "id": "Radxa CM5",
+          "pic_url": "https://radxa.com/compute-module/cm5/thumb_cm5.webp",
+          "model": "Radxa CM5",
+          "desc": "A Cost-Effective SBC with Dual Display and 4K"
+        },
+        {
+          "id": "Radxa CM3I",
+          "pic_url": "https://radxa.com/compute-module/cm3i/thumb_cm3i.webp",
+          "model": "Radxa CM3I",
+          "desc": "A Cost-Effective SBC with Dual Display and 4K"
+        },
+        {
+          "id": "Radxa CM3",
+          "pic_url": "https://radxa.com/compute-module/cm3/thumb_cm3.webp",
+          "model": "Radxa CM3",
+          "desc": "A Cost-Effective SBC with Dual Display and 4K"
+        },
+        {
+          "id": "Radxa CM3S",
+          "pic_url": "https://radxa.com/compute-module/cm3s/thumb_cm3s.webp",
+          "model": "Radxa CM3S",
+          "desc": "A Cost-Effective SBC with Dual Display and 4K"
+        }
+      ]
+    }
+  ],
+  "device_images": {
+    "ROCK 3A": [
+      {
+        "id": "rock-3a_debian_bullseye_xfce_b25",
+        "pic_url": "https://www.debian.org/Pics/debian-logo-1024x576.png",
+        "name": "rock-3a_debian_bullseye_xfce_b25",
+        "desc": "This flavor is officially supported, tested, and recommended for all users.",
+        "time": "2023-8-29",
+        "size": "1.04 GB",
+        "edit": true,
+        "hide": false
+      },
+      {
+        "id": "rock-3a_debian_bullseye_cli_b25",
+        "pic_url": "https://www.debian.org/Pics/debian-logo-1024x576.png",
+        "name": "rock-3a_debian_bullseye_cli_b25",
+        "desc": "This flavor is officially supported. This flavor is quite minimal and is intended for headless usage.",
+        "time": "2023-8-29",
+        "size": "308 MB",
+        "edit": true,
+        "hide": false
+      },
+      {
+        "id": "rock-3a_debian_bullseye_xfce_b24",
+        "pic_url": "https://www.debian.org/Pics/debian-logo-1024x576.png",
+        "name": "rock-3a_debian_bullseye_xfce_b24",
+        "desc": "This flavor is officially supported, tested, and recommended for all users.",
+        "time": "2023-8-22",
+        "size": "853 MB",
+        "edit": true,
+        "hide": true
+      },
+      {
+        "id": "rock-3a_debian_bullseye_cli_b24",
+        "pic_url": "https://www.debian.org/Pics/debian-logo-1024x576.png",
+        "name": "rock-3a_debian_bullseye_cli_b24",
+        "desc": "This flavor is officially supported. This flavor is quite minimal and is intended for headless usage.",
+        "time": "2023-8-22",
+        "size": "308 MB",
+        "edit": true,
+        "hide": true
+      }
+    ]
+  },
+  "images": {
+    "rock-3a_debian_bullseye_xfce_b25": {
+      "checksum_method": "sha512",
+      "checksum_file": "url",
+      "checksum_url": "https://github.com/radxa-build/rock-3a/releases/download/b25/rock-3a_debian_bullseye_xfce_b25.img.sha512",
+      "extension": "xz",
+      "download_url": "https://github.com/radxa-build/rock-3a/releases/download/b25/rock-3a_debian_bullseye_xfce_b25.img.xz",
+      "size": 1113865332
+    },
+    "rock-3a_debian_bullseye_cli_b25": {
+      "checksum_method": "sha512",
+      "checksum_file": "url",
+      "checksum_url": "https://github.com/radxa-build/rock-3a/releases/download/b25/rock-3a_debian_bullseye_cli_b25.img.sha512",
+      "extension": "xz",
+      "download_url": "https://github.com/radxa-build/rock-3a/releases/download/b25/rock-3a_debian_bullseye_cli_b25.img.xz",
+      "size": 323002548
+    },
+    "rock-3a_debian_bullseye_xfce_b24": {
+      "checksum_method": "sha512",
+      "checksum_file": "url",
+      "checksum_url": "https://github.com/radxa-build/rock-3a/releases/download/b25/rock-3a_debian_bullseye_xfce_b24.img.sha512",
+      "extension": "xz",
+      "download_url": "https://github.com/radxa-build/rock-3a/releases/download/b25/rock-3a_debian_bullseye_xfce_b24.img.xz",
+      "size": 894484392
+    },
+    "rock-3a_debian_bullseye_cli_b24": {
+      "checksum_method": "sha512",
+      "checksum_file": "url",
+      "checksum_url": "https://github.com/radxa-build/rock-3a/releases/download/b25/rock-3a_debian_bullseye_cli_b24.img.sha512",
+      "extension": "xz",
+      "download_url": "https://github.com/radxa-build/rock-3a/releases/download/b25/rock-3a_debian_bullseye_cli_b24.img.xz",
+      "size": 322571868
+    }
+  }
+}
