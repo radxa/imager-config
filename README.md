@@ -1,1 +1,2 @@
-# imager-config
+# Radxa Imager
+
