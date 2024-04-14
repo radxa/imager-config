@@ -66,5 +66,5 @@ for serial in os.listdir(root):
                             "download_url": image_data['download_url'],
                             "size": image_data['size'],
                         }
-            result['device_images'][device_data['id']] = [_image_result]
+            result['device_images'][device_data['id']] = _image_result
 print(json.dumps(result, indent=4))
