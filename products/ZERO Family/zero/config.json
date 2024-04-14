@@ -1,7 +1,7 @@
 {
   "id": "ZERO",
-  "model": "ZEROo",
-  "desc": "A Ultra Tiny High Performance SBC",
-  "pic_url": "An Ultra Tiny SBC Supports 4K Display",
+  "model": "ZERO",
+  "desc": "An Ultra Tiny SBC Supports 4K Display",
+  "pic_url": "https://imager.radxa.com/image/ZERO.svg",
   "sort": "4"
 }
