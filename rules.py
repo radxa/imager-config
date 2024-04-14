@@ -35,12 +35,12 @@ def get_all_releases(repo_owner, repo_name, token=None):
     return releases
 
 
-if __name__ == '__main__':
-    owner = "radxa-build"
-    repo = "rock-5b"
-    token = None  # 如果需要身份验证，请设置为您的 GitHub 访问令牌
-
-    all_releases = get_all_releases(owner, repo, token)
-    for release in all_releases:
-        print(release['tag_name'])
-    print(len(all_releases))
+# if __name__ == '__main__':
+#     owner = "radxa-build"
+#     repo = "rock-5b"
+#     token = None  # 如果需要身份验证，请设置为您的 GitHub 访问令牌
+#
+#     all_releases = get_all_releases(owner, repo, token)
+#     for release in all_releases:
+#         print(release['tag_name'])
+#     print(len(all_releases))
