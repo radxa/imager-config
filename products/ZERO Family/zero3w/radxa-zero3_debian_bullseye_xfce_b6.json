@@ -12,5 +12,6 @@
   "checksum_file": "url",
   "checksum_url": "https://gate.radxa.com/radxa-build/radxa-zero3/releases/download/b6/radxa-zero3_debian_bullseye_xfce_b6.img.sha512",
   "extension": "xz",
-  "download_url": "https://gate.radxa.com/radxa-build/radxa-zero3/releases/download/b6/radxa-zero3_debian_bullseye_xfce_b6.img.xz"
+  "download_url": "https://gate.radxa.com/radxa-build/radxa-zero3/releases/download/b6/radxa-zero3_debian_bullseye_xfce_b6.img.xz",
+  "sort": "0"
 }

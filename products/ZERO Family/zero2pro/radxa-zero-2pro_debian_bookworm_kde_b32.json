@@ -12,5 +12,6 @@
   "checksum_file": "url",
   "checksum_url": "https://gate.radxa.com/radxa-build/radxa-zero-2pro/releases/download/b32/radxa-zero-2pro_debian_bookworm_kde_b32.img.sha512",
   "extension": "xz",
-  "download_url": "https://gate.radxa.com/radxa-build/radxa-zero-2pro/releases/download/b32/radxa-zero-2pro_debian_bookworm_kde_b32.img.xz"
+  "download_url": "https://gate.radxa.com/radxa-build/radxa-zero-2pro/releases/download/b32/radxa-zero-2pro_debian_bookworm_kde_b32.img.xz",
+  "sort": "0"
 }

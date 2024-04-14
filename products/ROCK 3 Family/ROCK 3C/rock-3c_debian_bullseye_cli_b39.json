@@ -1,0 +1,17 @@
+{
+    "id": "rock-3c_debian_bullseye_cli_b39",
+    "name": "rock-3c_debian_bullseye_cli_b39",
+    "size": 302890632,
+    "pic_url": "https://imager.radxa.com/image/debian.svg",
+    "desc": "This flavor is quite minimal and is intended for headless usage.",
+    "time": "2023-09-26",
+    "edit": true,
+    "edit_version": 1,
+    "hide": true,
+    "checksum_method": "sha512",
+    "checksum_file": "url",
+    "checksum_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b39/rock-3c_debian_bullseye_cli_b39.img.sha512",
+    "extension": "xz",
+    "download_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b39/rock-3c_debian_bullseye_cli_b39.img.xz",
+    "sort": "3"
+}

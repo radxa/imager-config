@@ -56,6 +56,7 @@ for serial in os.listdir(root):
                                 'edit': image_data['edit'],
                                 'edit_version': image_data.get('edit_version', 0),
                                 'hide': image_data['hide'],
+                                'sort': image_data['sort']
                             }
                         )
                         result['images'][image_data['id']] = {
@@ -66,5 +67,9 @@ for serial in os.listdir(root):
                             "download_url": image_data['download_url'],
                             "size": image_data['size'],
                         }
+            _image_result = sorted(_image_result, key=lambda x: x['sort'])
             result['device_images'][device_data['id']] = _image_result
+    serial_data['data'] = sorted(serial_data['data'], key=lambda x: x['sort'], reverse=False)
+
+result['devices'] = sorted(result['devices'], key=lambda x: x['sort'], reverse=False)
 print(json.dumps(result, indent=4))
