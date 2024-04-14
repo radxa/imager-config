@@ -17,19 +17,17 @@
     ],
     "device_images": {
         "ZERO 3E": [
-            [
-                {
-                    "id": "radxa-zero3_debian_bullseye_xfce_b6-3e",
-                    "pic_url": "https://imager.radxa.com/image/debian.svg",
-                    "name": "radxa-zero3_debian_bullseye_xfce_b6",
-                    "desc": "This flavor is officially supported, tested, and recommended for all users.",
-                    "time": "2024-01-10",
-                    "size": "1.16 GB",
-                    "edit": true,
-                    "edit_version": 1,
-                    "hide": false
-                }
-            ]
+            {
+                "id": "radxa-zero3_debian_bullseye_xfce_b6-3e",
+                "pic_url": "https://imager.radxa.com/image/debian.svg",
+                "name": "radxa-zero3_debian_bullseye_xfce_b6",
+                "desc": "This flavor is officially supported, tested, and recommended for all users.",
+                "time": "2024-01-10",
+                "size": "1.16 GB",
+                "edit": true,
+                "edit_version": 1,
+                "hide": false
+            }
         ]
     },
     "images": {
