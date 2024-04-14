@@ -6,16 +6,43 @@
             "sort": "3",
             "data": [
                 {
+                    "id": "ZERO 2 Pro",
+                    "model": "ZERO 2 Pro",
+                    "desc": "A Ultra Tiny High Performance SBC",
+                    "pic_url": "https://imager.radxa.com/image/ZERO 2 PRO.svg",
+                    "sort": "3"
+                },
+                {
                     "id": "ZERO 3E",
                     "model": "ZERO 3E",
                     "desc": "A Light, Compact and Tiny SBC",
                     "pic_url": "https://imager.radxa.com/image/ZERO%203E.svg",
                     "sort": "1"
+                },
+                {
+                    "id": "ZERO 3W",
+                    "model": "ZERO 3W",
+                    "desc": "A Light, Compact and Tiny SBC",
+                    "pic_url": "https://imager.radxa.com/image/ZERO%203W.svg",
+                    "sort": "2"
                 }
             ]
         }
     ],
     "device_images": {
+        "ZERO 2 Pro": [
+            {
+                "id": "radxa-zero-2pro_debian_bookworm_kde_b32",
+                "pic_url": "https://imager.radxa.com/image/debian.svg",
+                "name": "radxa-zero-2pro_debian_bookworm_kde_b32",
+                "desc": "This flavor is officially supported, tested, and recommended for all users.",
+                "time": "2023-10-13",
+                "size": "1.30 GB",
+                "edit": true,
+                "edit_version": 1,
+                "hide": false
+            }
+        ],
         "ZERO 3E": [
             {
                 "id": "radxa-zero3_debian_bullseye_xfce_b6-3e",
@@ -28,10 +55,39 @@
                 "edit_version": 1,
                 "hide": false
             }
+        ],
+        "ZERO 3W": [
+            {
+                "id": "radxa-zero3_debian_bullseye_xfce_b6-3w",
+                "pic_url": "https://imager.radxa.com/image/debian.svg",
+                "name": "radxa-zero3_debian_bullseye_xfce_b6",
+                "desc": "This flavor is officially supported, tested, and recommended for all users.",
+                "time": "2024-01-10",
+                "size": "1.16 GB",
+                "edit": true,
+                "edit_version": 1,
+                "hide": false
+            }
         ]
     },
     "images": {
+        "radxa-zero-2pro_debian_bookworm_kde_b32": {
+            "checksum_method": "sha512",
+            "checksum_file": "url",
+            "checksum_url": "https://gate.radxa.com/radxa-build/radxa-zero-2pro/releases/download/b32/radxa-zero-2pro_debian_bookworm_kde_b32.img.sha512",
+            "extension": "xz",
+            "download_url": "https://gate.radxa.com/radxa-build/radxa-zero-2pro/releases/download/b32/radxa-zero-2pro_debian_bookworm_kde_b32.img.xz",
+            "size": 1394266692
+        },
         "radxa-zero3_debian_bullseye_xfce_b6-3e": {
+            "checksum_method": "sha512",
+            "checksum_file": "url",
+            "checksum_url": "https://gate.radxa.com/radxa-build/radxa-zero3/releases/download/b6/radxa-zero3_debian_bullseye_xfce_b6.img.sha512",
+            "extension": "xz",
+            "download_url": "https://gate.radxa.com/radxa-build/radxa-zero3/releases/download/b6/radxa-zero3_debian_bullseye_xfce_b6.img.xz",
+            "size": 1247094508
+        },
+        "radxa-zero3_debian_bullseye_xfce_b6-3w": {
             "checksum_method": "sha512",
             "checksum_file": "url",
             "checksum_url": "https://gate.radxa.com/radxa-build/radxa-zero3/releases/download/b6/radxa-zero3_debian_bullseye_xfce_b6.img.sha512",
