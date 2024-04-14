@@ -1,0 +1,16 @@
+{
+  "id": "radxa-zero3_debian_bullseye_xfce_b6-3e",
+  "name": "radxa-zero3_debian_bullseye_xfce_b6",
+  "size": 1247094508,
+  "pic_url": "https://imager.radxa.com/image/debian.svg",
+  "desc": "This flavor is officially supported, tested, and recommended for all users.",
+  "time": "2024-01-10",
+  "edit": true,
+  "edit_version": 1,
+  "hide": false,
+  "checksum_method": "sha512",
+  "checksum_file": "url",
+  "checksum_url": "https://gate.radxa.com/radxa-build/radxa-zero3/releases/download/b6/radxa-zero3_debian_bullseye_xfce_b6.img.sha512",
+  "extension": "xz",
+  "download_url": "https://gate.radxa.com/radxa-build/radxa-zero3/releases/download/b6/radxa-zero3_debian_bullseye_xfce_b6.img.xz"
+}
