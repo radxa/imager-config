@@ -2,8 +2,8 @@ import json
 
 import requests
 
-url = 'https://github.com/radxa-build/radxa-zero3/releases/download/b6/radxa-zero3_debian_bullseye_xfce_b6.img.xz'
-date = '2024-01-10'
+url = 'https://github.com/radxa-build/radxa-zero-2pro/releases/download/b32/radxa-zero-2pro_debian_bookworm_kde_b32.img.xz'
+date = '2023-10-13'
 
 url = url.replace('github.com', 'gate.radxa.com')
 ver = url[:-2] + 'sha512'
