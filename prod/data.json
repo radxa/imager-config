@@ -1,17 +1,38 @@
 {
     "devices": [
         {
+            "serial_id": "ROCK 3 Family",
+            "serial_name": "ROCK 3 Family",
+            "sort": "1",
+            "data": [
+                {
+                    "id": "ROCK 3A",
+                    "model": "ROCK 3A",
+                    "desc": "A Credit Card Sized SBC with Rich Interfaces",
+                    "pic_url": "https://imager.radxa.com/image/3A.svg",
+                    "sort": "1"
+                },
+                {
+                    "id": "ROCK 3B",
+                    "model": "ROCK 3B",
+                    "desc": "An Pico-ITX form factor SBC with Multifunctional Interface",
+                    "pic_url": "https://imager.radxa.com/image/3B.svg",
+                    "sort": "2"
+                },
+                {
+                    "id": "ROCK 3C",
+                    "model": "ROCK 3C",
+                    "desc": "High-Performance, Low-Cost, RK3566 Inside!",
+                    "pic_url": "https://imager.radxa.com/image/3C.svg",
+                    "sort": "3"
+                }
+            ]
+        },
+        {
             "serial_id": "ZERO Family",
             "serial_name": "ZERO Family",
             "sort": "3",
             "data": [
-                {
-                    "id": "ZERO 2 Pro",
-                    "model": "ZERO 2 Pro",
-                    "desc": "A Ultra Tiny High Performance SBC",
-                    "pic_url": "https://imager.radxa.com/image/ZERO 2 PRO.svg",
-                    "sort": "3"
-                },
                 {
                     "id": "ZERO 3E",
                     "model": "ZERO 3E",
@@ -25,11 +46,153 @@
                     "desc": "A Light, Compact and Tiny SBC",
                     "pic_url": "https://imager.radxa.com/image/ZERO%203W.svg",
                     "sort": "2"
+                },
+                {
+                    "id": "ZERO 2 Pro",
+                    "model": "ZERO 2 Pro",
+                    "desc": "A Ultra Tiny High Performance SBC",
+                    "pic_url": "https://imager.radxa.com/image/ZERO 2 PRO.svg",
+                    "sort": "3"
+                },
+                {
+                    "id": "ZERO",
+                    "model": "ZEROo",
+                    "desc": "A Ultra Tiny High Performance SBC",
+                    "pic_url": "An Ultra Tiny SBC Supports 4K Display",
+                    "sort": "4"
                 }
             ]
         }
     ],
     "device_images": {
+        "ROCK 3A": [
+            {
+                "id": "rock-3b_debian_bullseye_xfce_b18",
+                "pic_url": "https://imager.radxa.com/image/debian.svg",
+                "name": "rock-3b_debian_bullseye_xfce_b18",
+                "desc": "This flavor is officially supported, tested, and recommended for all users.",
+                "time": "2023-10-12",
+                "size": "1.06 GB",
+                "edit": true,
+                "edit_version": 1,
+                "hide": false,
+                "sort": "1"
+            },
+            {
+                "id": "rock-3b_debian_bullseye_cli_b18",
+                "pic_url": "https://imager.radxa.com/image/debian.svg",
+                "name": "rock-3b_debian_bullseye_cli_b18",
+                "desc": "This flavor is quite minimal and is intended for headless usage.",
+                "time": "2023-10-12",
+                "size": "425.12 MB",
+                "edit": true,
+                "edit_version": 1,
+                "hide": false,
+                "sort": "2"
+            }
+        ],
+        "ROCK 3B": [
+            {
+                "id": "rock-3a_debian_bullseye_xfce_b25",
+                "pic_url": "https://imager.radxa.com/image/debian.svg",
+                "name": "rock-3a_debian_bullseye_xfce_b25",
+                "desc": "This flavor is officially supported, tested, and recommended for all users.",
+                "time": "2023-08-29",
+                "size": "1.04 GB",
+                "edit": true,
+                "edit_version": 1,
+                "hide": false,
+                "sort": "1"
+            },
+            {
+                "id": "rock-3a_debian_bullseye_cli_b25",
+                "pic_url": "https://imager.radxa.com/image/debian.svg",
+                "name": "rock-3a_debian_bullseye_cli_b25",
+                "desc": "This flavor is quite minimal and is intended for headless usage.",
+                "time": "2023-08-29",
+                "size": "308.04 MB",
+                "edit": true,
+                "edit_version": 1,
+                "hide": false,
+                "sort": "2"
+            }
+        ],
+        "ROCK 3C": [
+            {
+                "id": "rock-3c_debian_bullseye_xfce_b42",
+                "pic_url": "https://imager.radxa.com/image/debian.svg",
+                "name": "rock-3c_debian_bullseye_xfce_b42",
+                "desc": "This flavor is officially supported, tested, and recommended for all users.",
+                "time": "2024-01-10",
+                "size": "1.13 GB",
+                "edit": true,
+                "edit_version": 1,
+                "hide": false,
+                "sort": "1"
+            },
+            {
+                "id": "rock-3c_debian_bullseye_xfce_b39",
+                "pic_url": "https://imager.radxa.com/image/debian.svg",
+                "name": "rock-3c_debian_bullseye_xfce_b39",
+                "desc": "This flavor is officially supported, tested, and recommended for all users.",
+                "time": "2023-09-26",
+                "size": "1.02 GB",
+                "edit": true,
+                "edit_version": 1,
+                "hide": true,
+                "sort": "2"
+            },
+            {
+                "id": "rock-3c_debian_bullseye_cli_b39",
+                "pic_url": "https://imager.radxa.com/image/debian.svg",
+                "name": "rock-3c_debian_bullseye_cli_b39",
+                "desc": "This flavor is quite minimal and is intended for headless usage.",
+                "time": "2023-09-26",
+                "size": "288.86 MB",
+                "edit": true,
+                "edit_version": 1,
+                "hide": true,
+                "sort": "3"
+            },
+            {
+                "id": "rock-3c_debian_bullseye_xfce_b36",
+                "pic_url": "https://imager.radxa.com/image/debian.svg",
+                "name": "rock-3c_debian_bullseye_xfce_b36",
+                "desc": "This flavor is officially supported, tested, and recommended for all users.",
+                "time": "2023-08-03",
+                "size": "986.08 MB",
+                "edit": true,
+                "edit_version": 1,
+                "hide": true,
+                "sort": "4"
+            },
+            {
+                "id": "rock-3c_debian_bullseye_cli_b36",
+                "pic_url": "https://imager.radxa.com/image/debian.svg",
+                "name": "rock-3c_debian_bullseye_cli_b36",
+                "desc": "This flavor is quite minimal and is intended for headless usage.",
+                "time": "2023-08-03",
+                "size": "270.49 MB",
+                "edit": true,
+                "edit_version": 1,
+                "hide": true,
+                "sort": "5"
+            }
+        ],
+        "ZERO": [
+            {
+                "id": "radxa-zero_debian_bullseye_kde_b23",
+                "pic_url": "https://imager.radxa.com/image/debian.svg",
+                "name": "radxa-zero_debian_bullseye_kde_b23",
+                "desc": "This flavor is officially supported, tested, and recommended for all users.",
+                "time": "2023-06-01",
+                "size": "968.03 MB",
+                "edit": true,
+                "edit_version": 1,
+                "hide": false,
+                "sort": "0"
+            }
+        ],
         "ZERO 2 Pro": [
             {
                 "id": "radxa-zero-2pro_debian_bookworm_kde_b32",
@@ -40,7 +203,8 @@
                 "size": "1.30 GB",
                 "edit": true,
                 "edit_version": 1,
-                "hide": false
+                "hide": false,
+                "sort": "0"
             }
         ],
         "ZERO 3E": [
@@ -53,7 +217,8 @@
                 "size": "1.16 GB",
                 "edit": true,
                 "edit_version": 1,
-                "hide": false
+                "hide": false,
+                "sort": "0"
             }
         ],
         "ZERO 3W": [
@@ -66,11 +231,92 @@
                 "size": "1.16 GB",
                 "edit": true,
                 "edit_version": 1,
-                "hide": false
+                "hide": false,
+                "sort": "0"
             }
         ]
     },
     "images": {
+        "rock-3b_debian_bullseye_cli_b18": {
+            "checksum_method": "sha512",
+            "checksum_file": "url",
+            "checksum_url": "https://gate.radxa.com/radxa-build/rock-3b/releases/download/b18/rock-3b_debian_bullseye_cli_b18.img.sha512",
+            "extension": "xz",
+            "download_url": "https://gate.radxa.com/radxa-build/rock-3b/releases/download/b18/rock-3b_debian_bullseye_cli_b18.img.xz",
+            "size": 445774764
+        },
+        "rock-3b_debian_bullseye_xfce_b18": {
+            "checksum_method": "sha512",
+            "checksum_file": "url",
+            "checksum_url": "https://gate.radxa.com/radxa-build/rock-3b/releases/download/b18/rock-3b_debian_bullseye_xfce_b18.img.sha512",
+            "extension": "xz",
+            "download_url": "https://gate.radxa.com/radxa-build/rock-3b/releases/download/b18/rock-3b_debian_bullseye_xfce_b18.img.xz",
+            "size": 1137808484
+        },
+        "rock-3a_debian_bullseye_cli_b25": {
+            "checksum_method": "sha512",
+            "checksum_file": "url",
+            "checksum_url": "https://gate.radxa.com/radxa-build/rock-3a/releases/download/b25/rock-3a_debian_bullseye_cli_b25.img.sha512",
+            "extension": "xz",
+            "download_url": "https://gate.radxa.com/radxa-build/rock-3a/releases/download/b25/rock-3a_debian_bullseye_cli_b25.img.xz",
+            "size": 323002548
+        },
+        "rock-3a_debian_bullseye_xfce_b25": {
+            "checksum_method": "sha512",
+            "checksum_file": "url",
+            "checksum_url": "https://gate.radxa.com/radxa-build/rock-3a/releases/download/b25/rock-3a_debian_bullseye_xfce_b25.img.sha512",
+            "extension": "xz",
+            "download_url": "https://gate.radxa.com/radxa-build/rock-3a/releases/download/b25/rock-3a_debian_bullseye_xfce_b25.img.xz",
+            "size": 1113865332
+        },
+        "rock-3c_debian_bullseye_cli_b36": {
+            "checksum_method": "sha512",
+            "checksum_file": "url",
+            "checksum_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b36/rock-3c_debian_bullseye_cli_b36.img.sha512",
+            "extension": "xz",
+            "download_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b36/rock-3c_debian_bullseye_cli_b36.img.xz",
+            "size": 283624276
+        },
+        "rock-3c_debian_bullseye_cli_b39": {
+            "checksum_method": "sha512",
+            "checksum_file": "url",
+            "checksum_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b39/rock-3c_debian_bullseye_cli_b39.img.sha512",
+            "extension": "xz",
+            "download_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b39/rock-3c_debian_bullseye_cli_b39.img.xz",
+            "size": 302890632
+        },
+        "rock-3c_debian_bullseye_xfce_b36": {
+            "checksum_method": "sha512",
+            "checksum_file": "url",
+            "checksum_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b36/rock-3c_debian_bullseye_xfce_b36.img.sha512",
+            "extension": "xz",
+            "download_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b36/rock-3c_debian_bullseye_xfce_b36.img.xz",
+            "size": 1033977352
+        },
+        "rock-3c_debian_bullseye_xfce_b39": {
+            "checksum_method": "sha512",
+            "checksum_file": "url",
+            "checksum_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b39/rock-3c_debian_bullseye_xfce_b39.img.sha512",
+            "extension": "xz",
+            "download_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b39/rock-3c_debian_bullseye_xfce_b39.img.xz",
+            "size": 1093659840
+        },
+        "rock-3c_debian_bullseye_xfce_b42": {
+            "checksum_method": "sha512",
+            "checksum_file": "url",
+            "checksum_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b42/rock-3c_debian_bullseye_xfce_b42.img.sha512",
+            "extension": "xz",
+            "download_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b42/rock-3c_debian_bullseye_xfce_b42.img.xz",
+            "size": 1213334116
+        },
+        "radxa-zero_debian_bullseye_kde_b23": {
+            "checksum_method": "sha512",
+            "checksum_file": "url",
+            "checksum_url": "https://gate.radxa.com/radxa-build/radxa-zero/releases/download/b23/radxa-zero_debian_bullseye_kde_b23.img.sha512",
+            "extension": "xz",
+            "download_url": "https://gate.radxa.com/radxa-build/radxa-zero/releases/download/b23/radxa-zero_debian_bullseye_kde_b23.img.xz",
+            "size": 1015056940
+        },
         "radxa-zero-2pro_debian_bookworm_kde_b32": {
             "checksum_method": "sha512",
             "checksum_file": "url",
