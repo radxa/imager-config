@@ -7,7 +7,7 @@
     "time": "2023-09-26",
     "edit": true,
     "edit_version": 1,
-    "hide": true,
+    "hide": false,
     "checksum_method": "sha512",
     "checksum_file": "url",
     "checksum_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b39/rock-3c_debian_bullseye_cli_b39.img.sha512",
