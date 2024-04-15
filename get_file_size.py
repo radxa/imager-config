@@ -2,6 +2,7 @@ import json
 
 import requests
 
+# 请修改下面两行
 url = 'https://github.com/radxa-build/rock-3c/releases/download/b36/rock-3c_debian_bullseye_cli_b36.img.xz'
 date = '2023-08-03'
 
@@ -15,7 +16,9 @@ _json = {
     'id': name,
     'name': name,
     'size': int(length),
+    # 图片地址
     'pic_url': "https://imager.radxa.com/image/debian.svg",
+    # desc 为描述
     "desc": "This flavor is officially supported, tested, and recommended for all users." if 'cli' not in url else "This flavor is quite minimal and is intended for headless usage.",
     'time': date,
     'edit': True,
@@ -26,6 +29,7 @@ _json = {
     "checksum_url": ver,
     "extension": "xz",
     "download_url": url,
+    # 排序
     'sort': '0'
 }
 
