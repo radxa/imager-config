@@ -26,7 +26,7 @@ _json = {
     "checksum_url": ver,
     "extension": "xz",
     "download_url": url,
-    'sort':'0'
+    'sort': '0'
 }
 
 print(json.dumps(_json, indent=4))

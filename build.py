@@ -13,7 +13,7 @@ def convert_bytes(bytes, decimals=2):
     return f'{bytes:.{decimals}f} {units[i]}'
 
 
-root = 'products'
+root = os.path.join(os.path.dirname(__file__), 'products')
 
 with open(os.path.join(root, 'config.json')) as f:
     imager_config = json.load(f)
@@ -72,4 +72,4 @@ for serial in os.listdir(root):
     serial_data['data'] = sorted(serial_data['data'], key=lambda x: x['sort'], reverse=False)
 
 result['devices'] = sorted(result['devices'], key=lambda x: x['sort'], reverse=False)
-print(json.dumps(result, indent=4))
+print(json.dumps(result, indent=4), flush=True)
