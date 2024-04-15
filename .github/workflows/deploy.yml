@@ -1,0 +1,19 @@
+name: Deploy
+
+on: workflow_dispatch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: page
+      - name: Deploy
+        run: |
+          cp test/data.json prod/data.json
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add prod/data.json
+          git commit -m "Auto Deploy"
+          git push
