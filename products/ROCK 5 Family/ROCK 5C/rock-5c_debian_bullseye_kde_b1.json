@@ -1,0 +1,17 @@
+{
+    "id": "rock-5c_debian_bullseye_kde_b1",
+    "name": "rock-5c_debian_bullseye_kde_b1",
+    "size": 1447141900,
+    "pic_url": "https://imager.radxa.com/image/debian.svg",
+    "desc": "This flavor is officially supported, tested, and recommended for all users.",
+    "time": "2023-08-03",
+    "edit": true,
+    "edit_version": 1,
+    "hide": false,
+    "checksum_method": "sha512",
+    "checksum_file": "url",
+    "checksum_url": "https://gate.radxa.com/radxa-build/rock-5c/releases/download/b1/rock-5c_debian_bullseye_kde_b1.img.sha512",
+    "extension": "xz",
+    "download_url": "https://gate.radxa.com/radxa-build/rock-5c/releases/download/b1/rock-5c_debian_bullseye_kde_b1.img.xz",
+    "sort": "0"
+}
