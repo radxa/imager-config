@@ -13,5 +13,5 @@
   "checksum_url": "https://gate.radxa.com/radxa-build/radxa-zero/releases/download/b23/radxa-zero_debian_bullseye_kde_b23.img.sha512",
   "extension": "xz",
   "download_url": "https://gate.radxa.com/radxa-build/radxa-zero/releases/download/b23/radxa-zero_debian_bullseye_kde_b23.img.xz",
-  "sort": "0"
+  "sort": "9"
 }
