@@ -12,64 +12,41 @@ def convert_bytes(bytes, decimals=2):
         i += 1
     return f'{bytes:.{decimals}f} {units[i]}'
 
+def get_result():
+    root = os.path.join(os.path.dirname(__file__), 'products')
+    with open(os.path.join(root, 'config.json'), encoding='utf8') as f:
+        imager_config = json.load(f)
 
-root = os.path.join(os.path.dirname(__file__), 'products')
+    result = {
+        "family": [],
+        **imager_config
+    }
+    for serial in os.listdir(root):
+        _path = os.path.join(root, serial)
+        _config = os.path.join(_path, 'config.json')
+        if not os.path.exists(_config):
+            continue
+        with open(_config, 'r', encoding='utf8') as f:
+            serial_data = json.load(f)
+        serial_data['devices'] = []
+        for device in os.listdir(_path):
+            if device != 'config.json':
+                with open(os.path.join(_path, device, 'config.json'), encoding='utf8') as f:
+                    device_data = json.load(f)
+                device_data['images'] = []
+                image_path = os.path.join(_path, device)
+                for image in os.listdir(image_path):
+                    if image != 'config.json':
+                        with open(os.path.join(image_path, image), encoding='utf8') as f:
+                            image_data = json.load(f)
+                        device_data['images'].append(image_data)
+                device_data['images'].sort(key=lambda x: x['sort'], reverse=True)
+                serial_data['devices'].append(device_data)
+        serial_data['devices'].sort(key=lambda x: x['sort'], reverse=True)
+        result['family'].append(serial_data)
 
-with open(os.path.join(root, 'config.json')) as f:
-    imager_config = json.load(f)
+    result['family'].sort(key=lambda x: x['sort'], reverse=True)
+    return result
 
-result = {
-    "devices": [],
-    "device_images": {},
-    "images": {},
-    **imager_config
-}
-
-for serial in os.listdir(root):
-    _path = os.path.join(root, serial)
-    _config = os.path.join(_path, 'config.json')
-    if not os.path.exists(_config):
-        continue
-    with open(_config, 'r') as f:
-        serial_data = json.load(f)
-    serial_data['data'] = []
-    result['devices'].append(serial_data)
-    for device in os.listdir(_path):
-        if device != 'config.json':
-            with open(os.path.join(_path, device, 'config.json')) as f:
-                device_data = json.load(f)
-            serial_data['data'].append(device_data)
-            image_path = os.path.join(_path, device)
-            _image_result = []
-            for image in os.listdir(image_path):
-                if image != 'config.json':
-                    with open(os.path.join(image_path, image)) as f:
-                        image_data = json.load(f)
-                        _image_result.append(
-                            {
-                                'id': image_data['id'],
-                                'pic_url': image_data.get('pic_url', ''),
-                                'name': image_data['name'],
-                                'desc': image_data.get('desc', ''),
-                                'time': image_data.get('time', ''),
-                                'size': convert_bytes(image_data['size']),
-                                'edit': image_data['edit'],
-                                'edit_version': image_data.get('edit_version', 0),
-                                'hide': image_data['hide'],
-                                'sort': image_data['sort']
-                            }
-                        )
-                        result['images'][image_data['id']] = {
-                            "checksum_method": image_data['checksum_method'],
-                            "checksum_file": image_data['checksum_file'],
-                            "checksum_url": image_data['checksum_url'],
-                            "extension": image_data['extension'],
-                            "download_url": image_data['download_url'],
-                            "size": image_data['size'],
-                        }
-            _image_result = sorted(_image_result, key=lambda x: x['sort'])
-            result['device_images'][device_data['id']] = _image_result
-    serial_data['data'] = sorted(serial_data['data'], key=lambda x: x['sort'], reverse=False)
-
-result['devices'] = sorted(result['devices'], key=lambda x: x['sort'], reverse=False)
-print(json.dumps(result, indent=4), flush=True)
+if __name__ == '__main__':
+    print(json.dumps(get_result(), indent=2, ensure_ascii=False))

@@ -1,7 +1,14 @@
 {
-  "id": "ROCK 3C",
-  "model": "ROCK 3C",
-  "desc": "High-Performance, Low-Cost, RK3566 Inside!",
-  "pic_url": "https://imager.radxa.com/image/3C.svg",
-  "sort": "3"
+    "id": "ROCK 3C",
+    "sort": 0,
+    "pic_url": "https://imager.radxa.com/image/3C.svg",
+    "is_hide": false,
+    "name": {
+        "zh_CN": "ROCK 3C",
+        "en": "ROCK 3C"
+    },
+    "desc": {
+        "zh_CN": "搭载RK3566芯片,高性价比 Radxa ROCK3C 等你来！",
+        "en": "High-Performance, Low-Cost, RK3566 Inside!"
+    }
 }

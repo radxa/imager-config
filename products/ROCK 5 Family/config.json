@@ -1,5 +1,12 @@
 {
-  "serial_id": "ROCK 5 Family",
-  "serial_name": "ROCK 5 Family",
-  "sort": "1"
+    "id": "ROCK 5 Family",
+    "sort": 0,
+    "name": {
+        "zh_CN": "ROCK 5 系列",
+        "en": "ROCK 5 Family"
+    },
+    "desc": {
+        "zh_CN": "ROCK 5 系列",
+        "en": "ROCK 5 Family"
+    }
 }

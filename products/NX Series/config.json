@@ -1,0 +1,13 @@
+{
+    "id": "NX Series",
+    "sort": 13,
+    "is_hide": false,
+    "name": {
+        "zh_CN": "NX 系列",
+        "en": "NX Series"
+    },
+    "desc": {
+        "zh_CN": "",
+        "en": ""
+    }
+}

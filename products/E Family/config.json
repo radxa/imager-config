@@ -1,0 +1,13 @@
+{
+    "id": "E Family",
+    "sort": 10,
+    "is_hide": false,
+    "name": {
+        "zh_CN": "E 系列",
+        "en": "E Family"
+    },
+    "desc": {
+        "zh_CN": "",
+        "en": ""
+    }
+}

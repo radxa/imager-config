@@ -1,7 +1,14 @@
 {
-  "id": "ROCK 5B",
-  "model": "ROCK 5B",
-  "desc": "An Pico-ITX form factor SBC with Multifunctional Interface",
-  "pic_url": "https://imager.radxa.com/image/5B.svg",
-  "sort": "2"
+    "id": "ROCK 5B",
+    "sort": 1,
+    "pic_url": "https://imager.radxa.com/image/5B.svg",
+    "is_hide": false,
+    "name": {
+        "zh_CN": "ROCK 5B",
+        "en": "ROCK 5B"
+    },
+    "desc": {
+        "zh_CN": "An Pico-ITX form factor SBC with Multifunctional Interface",
+        "en": ""
+    }
 }

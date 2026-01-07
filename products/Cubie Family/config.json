@@ -1,0 +1,13 @@
+{
+    "id": "Cubie Family",
+    "sort": 6,
+    "is_hide": false,
+    "name": {
+        "zh_CN": "Cubie 系列",
+        "en": "Cubie Family"
+    },
+    "desc": {
+        "zh_CN": "",
+        "en": ""
+    }
+}

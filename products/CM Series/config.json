@@ -1,0 +1,13 @@
+{
+    "id": "CM Series",
+    "sort": 12,
+    "is_hide": false,
+    "name": {
+        "zh_CN": "CM 系列",
+        "en": "CM Series"
+    },
+    "desc": {
+        "zh_CN": "",
+        "en": ""
+    }
+}

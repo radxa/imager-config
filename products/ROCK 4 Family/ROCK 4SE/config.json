@@ -1,0 +1,14 @@
+{
+    "id": "ROCK 4SE",
+    "sort": 1,
+    "pic_url": "https://imager.radxa.com/image/4SE.svg",
+    "is_hide": false,
+    "name": {
+        "zh_CN": "ROCK 4SE",
+        "en": "ROCK 4SE"
+    },
+    "desc": {
+        "zh_CN": "一台具有双显和 4K 功能的高性价比 SBC",
+        "en": "A Cost-Effective SBC with Dual Display and 4K"
+    }
+}

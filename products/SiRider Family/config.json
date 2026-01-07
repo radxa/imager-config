@@ -1,0 +1,13 @@
+{
+    "id": "SiRider Family",
+    "sort": 7,
+    "is_hide": false,
+    "name": {
+        "zh_CN": "SiRider 系列",
+        "en": "SiRider Family"
+    },
+    "desc": {
+        "zh_CN": "",
+        "en": ""
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "id": "ROCK 4D",
+    "sort": 0,
+    "pic_url": "https://imager.radxa.com/image/4D.svg",
+    "is_hide": false,
+    "name": {
+        "zh_CN": "ROCK 4D",
+        "en": "ROCK 4D"
+    },
+    "desc": {
+        "zh_CN": "边缘 AI 与 4K 多媒体兼备的高性能 SBC",
+        "en": "High-Performance SBC for Edge AI and 4K Multimedia"
+    }
+}

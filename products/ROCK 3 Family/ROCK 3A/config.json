@@ -1,7 +1,14 @@
 {
-  "id": "ROCK 3A",
-  "model": "ROCK 3A",
-  "desc": "A Credit Card Sized SBC with Rich Interfaces",
-  "pic_url": "https://imager.radxa.com/image/3A.svg",
-  "sort": "1"
+    "id": "ROCK 3A",
+    "sort": 2,
+    "pic_url": "https://imager.radxa.com/image/3A.svg",
+    "is_hide": false,
+    "name": {
+        "zh_CN": "ROCK 3A",
+        "en": "ROCK 3A"
+    },
+    "desc": {
+        "zh_CN": "一台具有丰富接口的信用卡大小的SBC",
+        "en": "A Credit Card Sized SBC with Rich Interfaces"
+    }
 }

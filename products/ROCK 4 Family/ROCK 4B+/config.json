@@ -1,0 +1,14 @@
+{
+    "id": "ROCK 4B+",
+    "sort": 3,
+    "pic_url": "https://imager.radxa.com/image/4B+.svg",
+    "is_hide": false,
+    "name": {
+        "zh_CN": "ROCK 4B+",
+        "en": "ROCK 4B+"
+    },
+    "desc": {
+        "zh_CN": "升级版 ROCK 4A+ SBC，支持 WiFi5&BT5 和 PoE",
+        "en": "An Upgraded ROCK 4A+ SBC with WiFi5 & BT5 and PoE Support"
+    }
+}

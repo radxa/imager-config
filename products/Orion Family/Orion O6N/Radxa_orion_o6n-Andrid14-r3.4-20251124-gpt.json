@@ -1,0 +1,25 @@
+{
+    "id": "Radxa_orion_o6n-Andrid14-r3.4-20251124-gpt",
+    "name": {
+        "zh_CN": "Radxa_orion_o6n-Andrid14-r3.4-20251124-gpt",
+        "en": "Radxa_orion_o6n-Andrid14-r3.4-20251124-gpt"
+    },
+    "desc": {
+        "zh_CN": "镜像 Radxa_orion_o6n-Andrid14-r3.4-20251124-gpt 的描述",
+        "en": "Description for image Radxa_orion_o6n-Andrid14-r3.4-20251124-gpt"
+    },
+    "pic_url": "",
+    "time": "2025-11-25T11:35:49Z",
+    "custom_version": 0,
+    "sort": 999,
+    "download_url": "https://gate.radxa.com/radxa/cix-android-manifests/releases/download/radxa-orion-o6n-android14-rc3.4-20251124/Radxa_orion_o6n-Andrid14-r3.4-20251124-gpt.zip",
+    "download_size": 913986843,
+    "download_sha256": "047d4fdb121f508b77a51f1ca817f0f4f938166754832d003b06566f44035e89",
+    "format": "zip",
+    "uncompressed_size": 2690646016,
+    "uncompressed_sha256": "d585c5c02d3a52a5b2ac4442daec000276d73a5604ce308b9286dc09f89b2f1d",
+    "is_test": false,
+    "is_hide": false,
+    "github_url": "https://api.github.com/repos/radxa/cix-android-manifests/releases/assets/320629429",
+    "image_version": ""
+}

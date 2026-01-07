@@ -1,7 +1,14 @@
 {
-  "id": "ROCK 3B",
-  "model": "ROCK 3B",
-  "desc": "An Pico-ITX form factor SBC with Multifunctional Interface",
-  "pic_url": "https://imager.radxa.com/image/3B.svg",
-  "sort": "2"
+    "id": "ROCK 3B",
+    "sort": 1,
+    "pic_url": "https://imager.radxa.com/image/3B.svg",
+    "is_hide": false,
+    "name": {
+        "zh_CN": "ROCK 3B",
+        "en": "ROCK 3B"
+    },
+    "desc": {
+        "zh_CN": "一台功能丰富的工业嵌入式SBC",
+        "en": "An Pico-ITX form factor SBC with Multifunctional Interface"
+    }
 }

@@ -1,5 +1,13 @@
 {
-  "serial_id": "ZERO Family",
-  "serial_name": "ZERO Family",
-  "sort": "3"
+    "id": "ZERO Family",
+    "sort": 5,
+    "is_hide": false,
+    "name": {
+        "zh_CN": "ZERO 系列",
+        "en": "ZERO Family"
+    },
+    "desc": {
+        "zh_CN": "",
+        "en": ""
+    }
 }

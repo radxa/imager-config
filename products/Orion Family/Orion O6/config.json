@@ -1,0 +1,14 @@
+{
+    "id": "Orion O6",
+    "sort": 0,
+    "pic_url": "https://radxa.com/orion/o6/banner_orion_o6.webp",
+    "is_hide": false,
+    "name": {
+        "zh_CN": "星睿 O6",
+        "en": "Orion O6"
+    },
+    "desc": {
+        "zh_CN": "世界上首款开源 Arm V9 主板",
+        "en": "World's First Open Source Arm V9 Motherboard"
+    }
+}

@@ -13,5 +13,5 @@
     "checksum_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b36/rock-3c_debian_bullseye_xfce_b36.img.sha512",
     "extension": "xz",
     "download_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b36/rock-3c_debian_bullseye_xfce_b36.img.xz",
-    "sort": "4"
+    "sort": 1
 }

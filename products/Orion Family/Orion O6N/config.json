@@ -1,0 +1,14 @@
+{
+    "id": "Orion O6N",
+    "sort": 1,
+    "pic_url": "https://radxa.com/orion/o6n/banner_radxa_orion_o6n.webp",
+    "is_hide": false,
+    "name": {
+        "zh_CN": "星睿 O6N",
+        "en": "Orion O6N"
+    },
+    "desc": {
+        "zh_CN": "全球首款开源 Arm v9 主板，如今小巧登场",
+        "en": "The World’s First Open Source Arm v9 Motherboard, Now Even Smaller"
+    }
+}

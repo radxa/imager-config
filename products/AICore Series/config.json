@@ -1,0 +1,13 @@
+{
+    "id": "AICore Series",
+    "sort": 14,
+    "is_hide": false,
+    "name": {
+        "zh_CN": "智核系列",
+        "en": "AICore Series"
+    },
+    "desc": {
+        "zh_CN": "",
+        "en": ""
+    }
+}

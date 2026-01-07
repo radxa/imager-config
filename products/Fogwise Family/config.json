@@ -1,0 +1,13 @@
+{
+    "id": "Fogwise Family",
+    "sort": 11,
+    "is_hide": false,
+    "name": {
+        "zh_CN": "Fogwise® 系列",
+        "en": "Fogwise® Family"
+    },
+    "desc": {
+        "zh_CN": "",
+        "en": ""
+    }
+}

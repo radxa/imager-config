@@ -1,0 +1,14 @@
+{
+    "id": "ROCK 4C+",
+    "sort": 2,
+    "pic_url": "https://imager.radxa.com/image/4C+.svg",
+    "is_hide": false,
+    "name": {
+        "zh_CN": "ROCK 4C+",
+        "en": "ROCK 4C+"
+    },
+    "desc": {
+        "zh_CN": "一台具有双显和 4K 功能的高兼容性 SBC",
+        "en": "A High Compatibility SBC with Dual Display and 4K"
+    }
+}

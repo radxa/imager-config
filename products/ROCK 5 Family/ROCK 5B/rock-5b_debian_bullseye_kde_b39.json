@@ -13,5 +13,5 @@
     "checksum_url": "https://gate.radxa.com/radxa-build/rock-5b/releases/download/b39/rock-5b_debian_bullseye_kde_b39.img.sha512",
     "extension": "xz",
     "download_url": "https://gate.radxa.com/radxa-build/rock-5b/releases/download/b39/rock-5b_debian_bullseye_kde_b39.img.xz",
-    "sort": "0"
+    "sort": 0
 }

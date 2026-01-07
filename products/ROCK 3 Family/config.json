@@ -1,5 +1,13 @@
 {
-  "serial_id": "ROCK 3 Family",
-  "serial_name": "ROCK 3 Family",
-  "sort": "1"
+    "id": "ROCK 3 Family",
+    "sort": 2,
+    "is_hide": false,
+    "name": {
+        "zh_CN": "ROCK 3 系列",
+        "en": "ROCK 3 Family"
+    },
+    "desc": {
+        "zh_CN": "ROCK 3 系列",
+        "en": "ROCK 3 Family"
+    }
 }
