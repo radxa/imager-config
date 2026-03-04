@@ -925,7 +925,7 @@
       "devices": []
     }
   ],
-  "latest": "v0.2.4",
-  "minimumVersion": "v0.2.4",
+  "latest": "v0.9.0",
+  "minimumVersion": "v0.9.0",
   "download_url": "https://imager.radxa.com"
 }
