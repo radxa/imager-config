@@ -1,459 +1,21 @@
 {
   "family": [
     {
-      "id": "X Family",
-      "sort": 15,
-      "is_hide": false,
-      "name": {
-        "zh_CN": "X 系列",
-        "en": "X Family"
-      },
-      "desc": {
-        "zh_CN": "",
-        "en": ""
-      },
-      "devices": []
-    },
-    {
-      "id": "AICore Series",
+      "id": "ROCK 5 Family",
       "sort": 14,
-      "is_hide": false,
       "name": {
-        "zh_CN": "智核系列",
-        "en": "AICore Series"
+        "zh_CN": "ROCK 5 系列",
+        "en": "ROCK 5 Family"
       },
       "desc": {
-        "zh_CN": "",
-        "en": ""
+        "zh_CN": "ROCK 5 系列",
+        "en": "ROCK 5 Family"
       },
       "devices": []
-    },
-    {
-      "id": "NX Series",
-      "sort": 13,
-      "is_hide": false,
-      "name": {
-        "zh_CN": "NX 系列",
-        "en": "NX Series"
-      },
-      "desc": {
-        "zh_CN": "",
-        "en": ""
-      },
-      "devices": []
-    },
-    {
-      "id": "CM Series",
-      "sort": 12,
-      "is_hide": false,
-      "name": {
-        "zh_CN": "CM 系列",
-        "en": "CM Series"
-      },
-      "desc": {
-        "zh_CN": "",
-        "en": ""
-      },
-      "devices": []
-    },
-    {
-      "id": "Fogwise Family",
-      "sort": 11,
-      "is_hide": false,
-      "name": {
-        "zh_CN": "Fogwise® 系列",
-        "en": "Fogwise® Family"
-      },
-      "desc": {
-        "zh_CN": "",
-        "en": ""
-      },
-      "devices": []
-    },
-    {
-      "id": "E Family",
-      "sort": 10,
-      "is_hide": false,
-      "name": {
-        "zh_CN": "E 系列",
-        "en": "E Family"
-      },
-      "desc": {
-        "zh_CN": "",
-        "en": ""
-      },
-      "devices": []
-    },
-    {
-      "id": "Orion Family",
-      "sort": 9,
-      "is_hide": false,
-      "name": {
-        "zh_CN": "Orion 系列",
-        "en": "Orion Family"
-      },
-      "devices": [
-        {
-          "id": "Orion O6N",
-          "sort": 1,
-          "pic_url": "https://radxa.com/orion/o6n/banner_radxa_orion_o6n.webp",
-          "is_hide": false,
-          "name": {
-            "zh_CN": "星睿 O6N",
-            "en": "Orion O6N"
-          },
-          "desc": {
-            "zh_CN": "全球首款开源 Arm v9 主板，如今小巧登场",
-            "en": "The World’s First Open Source Arm v9 Motherboard, Now Even Smaller"
-          },
-          "images": [
-            {
-              "id": "Radxa_orion_o6n-Andrid14-r3.4-20251124-gpt",
-              "name": {
-                "zh_CN": "Radxa_orion_o6n-Andrid14-r3.4-20251124-gpt",
-                "en": "Radxa_orion_o6n-Andrid14-r3.4-20251124-gpt"
-              },
-              "desc": {
-                "zh_CN": "镜像 Radxa_orion_o6n-Andrid14-r3.4-20251124-gpt 的描述",
-                "en": "Description for image Radxa_orion_o6n-Andrid14-r3.4-20251124-gpt"
-              },
-              "pic_url": "",
-              "time": "2025-11-25T11:35:49Z",
-              "custom_version": 0,
-              "sort": 999,
-              "download_url": "https://gate.radxa.com/radxa/cix-android-manifests/releases/download/radxa-orion-o6n-android14-rc3.4-20251124/Radxa_orion_o6n-Andrid14-r3.4-20251124-gpt.zip",
-              "download_size": 913986843,
-              "download_sha256": "047d4fdb121f508b77a51f1ca817f0f4f938166754832d003b06566f44035e89",
-              "format": "zip",
-              "uncompressed_size": 2690646016,
-              "uncompressed_sha256": "d585c5c02d3a52a5b2ac4442daec000276d73a5604ce308b9286dc09f89b2f1d",
-              "is_test": false,
-              "is_hide": false,
-              "github_url": "https://api.github.com/repos/radxa/cix-android-manifests/releases/assets/320629429",
-              "image_version": ""
-            }
-          ]
-        },
-        {
-          "id": "Orion O6",
-          "sort": 0,
-          "pic_url": "https://radxa.com/orion/o6/banner_orion_o6.webp",
-          "is_hide": false,
-          "name": {
-            "zh_CN": "星睿 O6",
-            "en": "Orion O6"
-          },
-          "desc": {
-            "zh_CN": "世界上首款开源 Arm V9 主板",
-            "en": "World's First Open Source Arm V9 Motherboard"
-          },
-          "images": []
-        }
-      ]
-    },
-    {
-      "id": "NIO Family",
-      "sort": 8,
-      "is_hide": false,
-      "name": {
-        "zh_CN": "NIO 系列",
-        "en": "NIO Family"
-      },
-      "desc": {
-        "zh_CN": "",
-        "en": ""
-      },
-      "devices": []
-    },
-    {
-      "id": "SiRider Family",
-      "sort": 7,
-      "is_hide": false,
-      "name": {
-        "zh_CN": "SiRider 系列",
-        "en": "SiRider Family"
-      },
-      "desc": {
-        "zh_CN": "",
-        "en": ""
-      },
-      "devices": []
-    },
-    {
-      "id": "Cubie Family",
-      "sort": 6,
-      "is_hide": false,
-      "name": {
-        "zh_CN": "Cubie 系列",
-        "en": "Cubie Family"
-      },
-      "desc": {
-        "zh_CN": "",
-        "en": ""
-      },
-      "devices": []
-    },
-    {
-      "id": "ZERO Family",
-      "sort": 5,
-      "is_hide": false,
-      "name": {
-        "zh_CN": "ZERO 系列",
-        "en": "ZERO Family"
-      },
-      "desc": {
-        "zh_CN": "",
-        "en": ""
-      },
-      "devices": []
-    },
-    {
-      "id": "ROCK Pi Family",
-      "sort": 4,
-      "is_hide": false,
-      "name": {
-        "zh_CN": "ROCK Pi 系列",
-        "en": "ROCK Pi Family"
-      },
-      "desc": {
-        "zh_CN": "",
-        "en": ""
-      },
-      "devices": []
-    },
-    {
-      "id": "ROCK 2 Family",
-      "sort": 3,
-      "is_hide": false,
-      "name": {
-        "zh_CN": "ROCK 2 系列",
-        "en": "ROCK 2 Family"
-      },
-      "desc": {
-        "zh_CN": "",
-        "en": ""
-      },
-      "devices": []
-    },
-    {
-      "id": "ROCK 3 Family",
-      "sort": 2,
-      "is_hide": false,
-      "name": {
-        "zh_CN": "ROCK 3 系列",
-        "en": "ROCK 3 Family"
-      },
-      "desc": {
-        "zh_CN": "ROCK 3 系列",
-        "en": "ROCK 3 Family"
-      },
-      "devices": [
-        {
-          "id": "ROCK 3A",
-          "sort": 2,
-          "pic_url": "https://imager.radxa.com/image/3A.svg",
-          "is_hide": false,
-          "name": {
-            "zh_CN": "ROCK 3A",
-            "en": "ROCK 3A"
-          },
-          "desc": {
-            "zh_CN": "一台具有丰富接口的信用卡大小的SBC",
-            "en": "A Credit Card Sized SBC with Rich Interfaces"
-          },
-          "images": [
-            {
-              "id": "rock-3a_debian_bullseye_cli_b25",
-              "name": "rock-3a_debian_bullseye_cli_b25",
-              "size": 323002548,
-              "pic_url": "https://imager.radxa.com/image/debian.svg",
-              "desc": "This flavor is quite minimal and is intended for headless usage.",
-              "time": "2023-08-29",
-              "edit": true,
-              "edit_version": 1,
-              "hide": false,
-              "checksum_method": "sha512",
-              "checksum_file": "url",
-              "checksum_url": "https://gate.radxa.com/radxa-build/rock-3a/releases/download/b25/rock-3a_debian_bullseye_cli_b25.img.sha512",
-              "extension": "xz",
-              "download_url": "https://gate.radxa.com/radxa-build/rock-3a/releases/download/b25/rock-3a_debian_bullseye_cli_b25.img.xz",
-              "sort": "2"
-            },
-            {
-              "id": "rock-3a_debian_bullseye_xfce_b25",
-              "name": "rock-3a_debian_bullseye_xfce_b25",
-              "size": 1113865332,
-              "pic_url": "https://imager.radxa.com/image/debian.svg",
-              "desc": "This flavor is officially supported, tested, and recommended for all users.",
-              "time": "2023-08-29",
-              "edit": true,
-              "edit_version": 1,
-              "hide": false,
-              "checksum_method": "sha512",
-              "checksum_file": "url",
-              "checksum_url": "https://gate.radxa.com/radxa-build/rock-3a/releases/download/b25/rock-3a_debian_bullseye_xfce_b25.img.sha512",
-              "extension": "xz",
-              "download_url": "https://gate.radxa.com/radxa-build/rock-3a/releases/download/b25/rock-3a_debian_bullseye_xfce_b25.img.xz",
-              "sort": "1"
-            }
-          ]
-        },
-        {
-          "id": "ROCK 3B",
-          "sort": 1,
-          "pic_url": "https://imager.radxa.com/image/3B.svg",
-          "is_hide": false,
-          "name": {
-            "zh_CN": "ROCK 3B",
-            "en": "ROCK 3B"
-          },
-          "desc": {
-            "zh_CN": "一台功能丰富的工业嵌入式SBC",
-            "en": "An Pico-ITX form factor SBC with Multifunctional Interface"
-          },
-          "images": [
-            {
-              "id": "rock-3b_debian_bullseye_cli_b18",
-              "name": "rock-3b_debian_bullseye_cli_b18",
-              "size": 445774764,
-              "pic_url": "https://imager.radxa.com/image/debian.svg",
-              "desc": "This flavor is quite minimal and is intended for headless usage.",
-              "time": "2023-10-12",
-              "edit": true,
-              "edit_version": 1,
-              "hide": false,
-              "checksum_method": "sha512",
-              "checksum_file": "url",
-              "checksum_url": "https://gate.radxa.com/radxa-build/rock-3b/releases/download/b18/rock-3b_debian_bullseye_cli_b18.img.sha512",
-              "extension": "xz",
-              "download_url": "https://gate.radxa.com/radxa-build/rock-3b/releases/download/b18/rock-3b_debian_bullseye_cli_b18.img.xz",
-              "sort": "2"
-            },
-            {
-              "id": "rock-3b_debian_bullseye_xfce_b18",
-              "name": "rock-3b_debian_bullseye_xfce_b18",
-              "size": 1137808484,
-              "pic_url": "https://imager.radxa.com/image/debian.svg",
-              "desc": "This flavor is officially supported, tested, and recommended for all users.",
-              "time": "2023-10-12",
-              "edit": true,
-              "edit_version": 1,
-              "hide": false,
-              "checksum_method": "sha512",
-              "checksum_file": "url",
-              "checksum_url": "https://gate.radxa.com/radxa-build/rock-3b/releases/download/b18/rock-3b_debian_bullseye_xfce_b18.img.sha512",
-              "extension": "xz",
-              "download_url": "https://gate.radxa.com/radxa-build/rock-3b/releases/download/b18/rock-3b_debian_bullseye_xfce_b18.img.xz",
-              "sort": "1"
-            }
-          ]
-        },
-        {
-          "id": "ROCK 3C",
-          "sort": 0,
-          "pic_url": "https://imager.radxa.com/image/3C.svg",
-          "is_hide": false,
-          "name": {
-            "zh_CN": "ROCK 3C",
-            "en": "ROCK 3C"
-          },
-          "desc": {
-            "zh_CN": "搭载RK3566芯片,高性价比 Radxa ROCK3C 等你来！",
-            "en": "High-Performance, Low-Cost, RK3566 Inside!"
-          },
-          "images": [
-            {
-              "id": "rock-3c_debian_bullseye_xfce_b42",
-              "name": "rock-3c_debian_bullseye_xfce_b42",
-              "size": 1213334116,
-              "pic_url": "https://imager.radxa.com/image/debian.svg",
-              "desc": "This flavor is officially supported, tested, and recommended for all users.",
-              "time": "2024-01-10",
-              "edit": true,
-              "edit_version": 1,
-              "hide": false,
-              "checksum_method": "sha512",
-              "checksum_file": "url",
-              "checksum_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b42/rock-3c_debian_bullseye_xfce_b42.img.sha512",
-              "extension": "xz",
-              "download_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b42/rock-3c_debian_bullseye_xfce_b42.img.xz",
-              "sort": 4
-            },
-            {
-              "id": "rock-3c_debian_bullseye_xfce_b39",
-              "name": "rock-3c_debian_bullseye_xfce_b39",
-              "size": 1093659840,
-              "pic_url": "https://imager.radxa.com/image/debian.svg",
-              "desc": "This flavor is officially supported, tested, and recommended for all users.",
-              "time": "2023-09-26",
-              "edit": true,
-              "edit_version": 1,
-              "hide": true,
-              "checksum_method": "sha512",
-              "checksum_file": "url",
-              "checksum_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b39/rock-3c_debian_bullseye_xfce_b39.img.sha512",
-              "extension": "xz",
-              "download_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b39/rock-3c_debian_bullseye_xfce_b39.img.xz",
-              "sort": 3
-            },
-            {
-              "id": "rock-3c_debian_bullseye_cli_b39",
-              "name": "rock-3c_debian_bullseye_cli_b39",
-              "size": 302890632,
-              "pic_url": "https://imager.radxa.com/image/debian.svg",
-              "desc": "This flavor is quite minimal and is intended for headless usage.",
-              "time": "2023-09-26",
-              "edit": true,
-              "edit_version": 1,
-              "hide": false,
-              "checksum_method": "sha512",
-              "checksum_file": "url",
-              "checksum_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b39/rock-3c_debian_bullseye_cli_b39.img.sha512",
-              "extension": "xz",
-              "download_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b39/rock-3c_debian_bullseye_cli_b39.img.xz",
-              "sort": 2
-            },
-            {
-              "id": "rock-3c_debian_bullseye_xfce_b36",
-              "name": "rock-3c_debian_bullseye_xfce_b36",
-              "size": 1033977352,
-              "pic_url": "https://imager.radxa.com/image/debian.svg",
-              "desc": "This flavor is officially supported, tested, and recommended for all users.",
-              "time": "2023-08-03",
-              "edit": true,
-              "edit_version": 1,
-              "hide": true,
-              "checksum_method": "sha512",
-              "checksum_file": "url",
-              "checksum_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b36/rock-3c_debian_bullseye_xfce_b36.img.sha512",
-              "extension": "xz",
-              "download_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b36/rock-3c_debian_bullseye_xfce_b36.img.xz",
-              "sort": 1
-            },
-            {
-              "id": "rock-3c_debian_bullseye_cli_b36",
-              "name": "rock-3c_debian_bullseye_cli_b36",
-              "size": 283624276,
-              "pic_url": "https://imager.radxa.com/image/debian.svg",
-              "desc": "This flavor is quite minimal and is intended for headless usage.",
-              "time": "2023-08-03",
-              "edit": true,
-              "edit_version": 1,
-              "hide": true,
-              "checksum_method": "sha512",
-              "checksum_file": "url",
-              "checksum_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b36/rock-3c_debian_bullseye_cli_b36.img.sha512",
-              "extension": "xz",
-              "download_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b36/rock-3c_debian_bullseye_cli_b36.img.xz",
-              "sort": 0
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "ROCK 4 Family",
-      "sort": 1,
+      "sort": 13,
       "name": {
         "zh_CN": "ROCK 4 系列",
         "en": "ROCK 4 Family"
@@ -478,26 +40,29 @@
           },
           "images": [
             {
-              "id": "rock-pi-4a_bookworm_kde_t1",
+              "id": "rock-pi-4a_bookworm_kde_t1.output_512",
               "name": {
-                "zh_CN": "rock-pi-4a_bookworm_kde_t1",
-                "en": "rock-pi-4a_bookworm_kde_t1"
+                "zh_CN": "rock-pi-4a_bookworm_kde_t1.output_512",
+                "en": "rock-pi-4a_bookworm_kde_t1.output_512"
               },
               "desc": {
-                "zh_CN": "镜像 rock-pi-4a_bookworm_kde_t1 的描述",
-                "en": "Description for image rock-pi-4a_bookworm_kde_t1"
+                "zh_CN": "镜像 rock-pi-4a_bookworm_kde_t1.output_512 的描述",
+                "en": "Description for image rock-pi-4a_bookworm_kde_t1.output_512"
               },
               "pic_url": "",
-              "time": "2025-12-26 11:53:45",
-              "size": 0,
-              "edit": false,
-              "edit_version": 0,
-              "sort": 0,
-              "checksum_method": "",
-              "checksum_file": "",
-              "checksum_url": "",
-              "extension": "",
-              "download_url": ""
+              "time": "2025-09-12T04:46:57Z",
+              "custom_version": 0,
+              "sort": 999,
+              "download_url": "https://gate.radxa.com/radxa-build/rock-pi-4a/releases/download/rsdk-t1/rock-pi-4a_bookworm_kde_t1.output_512.img.xz",
+              "download_size": 1418749628,
+              "download_sha256": "eb39b348703f42c2052cda1ba8c992c4f1a6c6249ff2326081bc229fc751744d",
+              "format": "xz",
+              "uncompressed_size": 7859569664,
+              "uncompressed_sha256": "0d6335f49ad8e9c710724a8bd143d39e2fedf2ca496a822f7d9f6e6ae1a4f483",
+              "is_test": true,
+              "is_hide": false,
+              "github_url": "https://api.github.com/repos/radxa-build/rock-pi-4a/releases/assets/292402748",
+              "image_version": "rsdk-t1"
             }
           ]
         },
@@ -594,151 +159,770 @@
       ]
     },
     {
-      "id": "ROCK 5 Family",
-      "sort": 0,
+      "id": "ROCK 3 Family",
+      "sort": 12,
+      "is_hide": false,
       "name": {
-        "zh_CN": "ROCK 5 系列",
-        "en": "ROCK 5 Family"
+        "zh_CN": "ROCK 3 系列",
+        "en": "ROCK 3 Family"
       },
       "desc": {
-        "zh_CN": "ROCK 5 系列",
-        "en": "ROCK 5 Family"
+        "zh_CN": "ROCK 3 系列",
+        "en": "ROCK 3 Family"
       },
       "devices": [
         {
-          "id": "ROCK 5A",
+          "id": "ROCK 3A",
           "sort": 2,
-          "pic_url": "https://imager.radxa.com/image/5A.svg",
+          "pic_url": "https://imager.radxa.com/image/3A.svg",
           "is_hide": false,
           "name": {
-            "zh_CN": "ROCK 5A",
-            "en": "ROCK 5A"
+            "zh_CN": "ROCK 3A",
+            "en": "ROCK 3A"
           },
           "desc": {
-            "zh_CN": "A Credit Card Sized SBC with Rich Interfaces",
-            "en": ""
+            "zh_CN": "一台具有丰富接口的信用卡大小的SBC",
+            "en": "A Credit Card Sized SBC with Rich Interfaces"
           },
           "images": [
             {
-              "id": "rock-5a_debian_bullseye_xfce_b18",
-              "name": "rock-5a_debian_bullseye_xfce_b18",
-              "size": 1135693080,
+              "id": "rock-3a_debian_bullseye_cli_b25",
               "pic_url": "https://imager.radxa.com/image/debian.svg",
-              "desc": "This flavor is officially supported, tested, and recommended for all users.",
-              "time": "2023-08-03",
-              "edit": true,
-              "edit_version": 1,
-              "hide": false,
-              "checksum_method": "sha512",
-              "checksum_file": "url",
-              "checksum_url": "https://gate.radxa.com/radxa-build/rock-5a/releases/download/b18/rock-5a_debian_bullseye_xfce_b18.img.sha512",
-              "extension": "xz",
-              "download_url": "https://gate.radxa.com/radxa-build/rock-5a/releases/download/b18/rock-5a_debian_bullseye_xfce_b18.img.xz",
-              "sort": "0"
+              "time": "2023-08-29",
+              "custom_version": 1,
+              "image_version": "",
+              "sort": 2,
+              "download_url": "https://gate.radxa.com/radxa-build/rock-3a/releases/download/b25/rock-3a_debian_bullseye_cli_b25.img.xz",
+              "download_size": 0,
+              "download_sha256": "",
+              "format": "",
+              "uncompressed_size": "",
+              "uncompressed_sha256": "",
+              "is_test": false,
+              "is_hide": false,
+              "github_url": "",
+              "tags": [
+                {
+                  "text": {
+                    "zh_CN": "官方",
+                    "en": "official"
+                  },
+                  "fg": "#FFFFFFFF",
+                  "bg": "#FF007bff",
+                  "border": "#FF0056b3"
+                }
+              ],
+              "name": {
+                "zh_CN": "rock-3a debian bullseye cli b25",
+                "en": "rock-3a debian bullseye cli b25"
+              },
+              "desc": {
+                "zh_CN": "This flavor is quite minimal and is intended for headless usage.",
+                "en": "This flavor is quite minimal and is intended for headless usage."
+              }
             },
             {
-              "id": "rock-5a_debian_bullseye_kde_b18",
-              "name": "rock-5a_debian_bullseye_kde_b18",
-              "size": 1362775424,
+              "id": "rock-3a debian bullseye xfce b25",
               "pic_url": "https://imager.radxa.com/image/debian.svg",
-              "desc": "This flavor is officially supported, tested, and recommended for all users.",
-              "time": "2023-08-03",
-              "edit": true,
-              "edit_version": 1,
-              "hide": false,
-              "checksum_method": "sha512",
-              "checksum_file": "url",
-              "checksum_url": "https://gate.radxa.com/radxa-build/rock-5a/releases/download/b18/rock-5a_debian_bullseye_kde_b18.img.sha512",
-              "extension": "xz",
-              "download_url": "https://gate.radxa.com/radxa-build/rock-5a/releases/download/b18/rock-5a_debian_bullseye_kde_b18.img.xz",
-              "sort": "0"
+              "time": "2023-08-29",
+              "custom_version": 1,
+              "image_version": "",
+              "sort": 1,
+              "download_url": "https://gate.radxa.com/radxa-build/rock-3a/releases/download/b25/rock-3a_debian_bullseye_xfce_b25.img.xz",
+              "download_size": 0,
+              "download_sha256": "",
+              "format": "",
+              "uncompressed_size": "",
+              "uncompressed_sha256": "",
+              "is_test": false,
+              "is_hide": false,
+              "github_url": "",
+              "tags": [],
+              "name": {
+                "zh_CN": "rock-3a debian bullseye xfce b25",
+                "en": "rock-3a debian bullseye xfce b25"
+              },
+              "desc": {
+                "zh_CN": "This flavor is officially supported, tested, and recommended for all users.",
+                "en": "This flavor is officially supported, tested, and recommended for all users."
+              }
             }
           ]
         },
         {
-          "id": "ROCK 5B",
+          "id": "ROCK 3B",
           "sort": 1,
-          "pic_url": "https://imager.radxa.com/image/5B.svg",
+          "pic_url": "https://imager.radxa.com/image/3B.svg",
           "is_hide": false,
           "name": {
-            "zh_CN": "ROCK 5B",
-            "en": "ROCK 5B"
+            "zh_CN": "ROCK 3B",
+            "en": "ROCK 3B"
           },
           "desc": {
-            "zh_CN": "An Pico-ITX form factor SBC with Multifunctional Interface",
-            "en": ""
+            "zh_CN": "一台功能丰富的工业嵌入式SBC",
+            "en": "An Pico-ITX form factor SBC with Multifunctional Interface"
           },
           "images": [
             {
-              "id": "rock-5b_debian_bullseye_cli_b39",
-              "name": "rock-5b_debian_bullseye_cli_b39",
-              "size": 317460212,
+              "id": "rock-3b_debian_bullseye_cli_b18",
+              "name": "rock-3b_debian_bullseye_cli_b18",
+              "size": 445774764,
               "pic_url": "https://imager.radxa.com/image/debian.svg",
               "desc": "This flavor is quite minimal and is intended for headless usage.",
-              "time": "2023-08-03",
+              "time": "2023-10-12",
               "edit": true,
               "edit_version": 1,
               "hide": false,
               "checksum_method": "sha512",
               "checksum_file": "url",
-              "checksum_url": "https://gate.radxa.com/radxa-build/rock-5b/releases/download/b39/rock-5b_debian_bullseye_cli_b39.img.sha512",
+              "checksum_url": "https://gate.radxa.com/radxa-build/rock-3b/releases/download/b18/rock-3b_debian_bullseye_cli_b18.img.sha512",
               "extension": "xz",
-              "download_url": "https://gate.radxa.com/radxa-build/rock-5b/releases/download/b39/rock-5b_debian_bullseye_cli_b39.img.xz",
-              "sort": 1
+              "download_url": "https://gate.radxa.com/radxa-build/rock-3b/releases/download/b18/rock-3b_debian_bullseye_cli_b18.img.xz",
+              "sort": "2"
             },
             {
-              "id": "rock-5b_debian_bullseye_kde_b39",
-              "name": "rock-5b_debian_bullseye_kde_b39",
-              "size": 1377496964,
+              "id": "rock-3b_debian_bullseye_xfce_b18",
+              "name": "rock-3b_debian_bullseye_xfce_b18",
+              "size": 1137808484,
               "pic_url": "https://imager.radxa.com/image/debian.svg",
               "desc": "This flavor is officially supported, tested, and recommended for all users.",
-              "time": "2023-08-03",
+              "time": "2023-10-12",
               "edit": true,
               "edit_version": 1,
               "hide": false,
               "checksum_method": "sha512",
               "checksum_file": "url",
-              "checksum_url": "https://gate.radxa.com/radxa-build/rock-5b/releases/download/b39/rock-5b_debian_bullseye_kde_b39.img.sha512",
+              "checksum_url": "https://gate.radxa.com/radxa-build/rock-3b/releases/download/b18/rock-3b_debian_bullseye_xfce_b18.img.sha512",
               "extension": "xz",
-              "download_url": "https://gate.radxa.com/radxa-build/rock-5b/releases/download/b39/rock-5b_debian_bullseye_kde_b39.img.xz",
-              "sort": 0
+              "download_url": "https://gate.radxa.com/radxa-build/rock-3b/releases/download/b18/rock-3b_debian_bullseye_xfce_b18.img.xz",
+              "sort": "1"
             }
           ]
         },
         {
-          "id": "ROCK 5C",
+          "id": "ROCK 3C",
           "sort": 0,
-          "pic_url": "https://imager.radxa.com/image/5C.svg",
+          "pic_url": "https://imager.radxa.com/image/3C.svg",
           "is_hide": false,
           "name": {
-            "zh_CN": "ROCK 5C",
-            "en": "ROCK 5C"
+            "zh_CN": "ROCK 3C",
+            "en": "ROCK 3C"
           },
           "desc": {
-            "zh_CN": "High-Performance, Low-Cost, RK3566 Inside!",
-            "en": ""
+            "zh_CN": "搭载RK3566芯片,高性价比 Radxa ROCK3C 等你来！",
+            "en": "High-Performance, Low-Cost, RK3566 Inside!"
           },
           "images": [
             {
-              "id": "rock-5c_debian_bullseye_kde_b1",
-              "name": "rock-5c_debian_bullseye_kde_b1",
-              "size": 1447141900,
+              "id": "rock-3c_bookworm_kde_b1.output_512",
               "pic_url": "https://imager.radxa.com/image/debian.svg",
-              "desc": "This flavor is officially supported, tested, and recommended for all users.",
+              "time": "2025-07-15T04:20:28Z",
+              "custom_version": 1,
+              "image_version": "rsdk-b1",
+              "sort": 5,
+              "download_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/rsdk-b1/rock-3c_bookworm_kde_b1.output_512.img.xz",
+              "download_size": 1458587252,
+              "download_sha256": "3b0ae37c364e0c63efeed5b69e8e1aa827c12a695d872bee37c9b55460a2264a",
+              "format": "xz",
+              "uncompressed_size": 8076194816,
+              "uncompressed_sha256": "71d623c1b26df710e837c7cc874537c21ecb022a9586e09c066039604a6e1c49",
+              "is_test": false,
+              "is_hide": false,
+              "github_url": "https://api.github.com/repos/radxa-build/rock-3c/releases/assets/272947593",
+              "tags": [],
+              "name": {
+                "zh_CN": "bookworm kde",
+                "en": "bookworm kde"
+              },
+              "desc": {
+                "zh_CN": "镜像 rock-3c_bookworm_kde_b1.output_512 的描述",
+                "en": "Description for image rock-3c_bookworm_kde_b1.output_512"
+              }
+            },
+            {
+              "id": "rock-3c_debian_bullseye_xfce_b42",
+              "pic_url": "https://imager.radxa.com/image/debian.svg",
+              "time": "2024-01-10",
+              "custom_version": "",
+              "image_version": 1,
+              "sort": 4,
+              "download_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b42/rock-3c_debian_bullseye_xfce_b42.img.xz",
+              "download_size": 0,
+              "download_sha256": "",
+              "format": "",
+              "uncompressed_size": "",
+              "uncompressed_sha256": "",
+              "is_test": false,
+              "is_hide": false,
+              "github_url": "",
+              "tags": [],
+              "name": {
+                "zh_CN": "rock-3c_debian_bullseye_xfce_b42",
+                "en": ""
+              },
+              "desc": {
+                "zh_CN": "This flavor is officially supported, tested, and recommended for all users.",
+                "en": ""
+              }
+            },
+            {
+              "id": "rock-3c_debian_bullseye_xfce_b39",
+              "pic_url": "https://imager.radxa.com/image/debian.svg",
+              "time": "2023-09-26",
+              "custom_version": "",
+              "image_version": 2,
+              "sort": 3,
+              "download_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b39/rock-3c_debian_bullseye_xfce_b39.img.xz",
+              "download_size": 0,
+              "download_sha256": "",
+              "format": "",
+              "uncompressed_size": "",
+              "uncompressed_sha256": "",
+              "is_test": false,
+              "is_hide": false,
+              "github_url": "",
+              "tags": [],
+              "name": {
+                "zh_CN": "rock-3c_debian_bullseye_xfce_b39",
+                "en": ""
+              },
+              "desc": {
+                "zh_CN": "This flavor is officially supported, tested, and recommended for all users.",
+                "en": ""
+              }
+            },
+            {
+              "id": "rock-3c_debian_bullseye_cli_b39",
+              "pic_url": "https://imager.radxa.com/image/debian.svg",
+              "time": "2023-09-26",
+              "custom_version": "",
+              "image_version": 3,
+              "sort": 2,
+              "download_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b39/rock-3c_debian_bullseye_cli_b39.img.xz",
+              "download_size": 0,
+              "download_sha256": "",
+              "format": "",
+              "uncompressed_size": "",
+              "uncompressed_sha256": "",
+              "is_test": false,
+              "is_hide": false,
+              "github_url": "",
+              "tags": [],
+              "name": {
+                "zh_CN": "rock-3c_debian_bullseye_cli_b39",
+                "en": ""
+              },
+              "desc": {
+                "zh_CN": "This flavor is quite minimal and is intended for headless usage.",
+                "en": ""
+              }
+            },
+            {
+              "id": "rock-3c_debian_bullseye_xfce_b36",
+              "pic_url": "https://imager.radxa.com/image/debian.svg",
               "time": "2023-08-03",
-              "edit": true,
-              "edit_version": 1,
-              "hide": false,
-              "checksum_method": "sha512",
-              "checksum_file": "url",
-              "checksum_url": "https://gate.radxa.com/radxa-build/rock-5c/releases/download/b1/rock-5c_debian_bullseye_kde_b1.img.sha512",
-              "extension": "xz",
-              "download_url": "https://gate.radxa.com/radxa-build/rock-5c/releases/download/b1/rock-5c_debian_bullseye_kde_b1.img.xz",
-              "sort": "0"
+              "custom_version": "",
+              "image_version": 4,
+              "sort": 1,
+              "download_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b36/rock-3c_debian_bullseye_xfce_b36.img.xz",
+              "download_size": 0,
+              "download_sha256": "",
+              "format": "",
+              "uncompressed_size": "",
+              "uncompressed_sha256": "",
+              "is_test": false,
+              "is_hide": false,
+              "github_url": "",
+              "tags": [],
+              "name": {
+                "zh_CN": "rock-3c_debian_bullseye_xfce_b36",
+                "en": ""
+              },
+              "desc": {
+                "zh_CN": "This flavor is officially supported, tested, and recommended for all users.",
+                "en": ""
+              }
+            },
+            {
+              "id": "rock-3c_debian_bullseye_cli_b36",
+              "pic_url": "https://imager.radxa.com/image/debian.svg",
+              "time": "2023-08-03",
+              "custom_version": "",
+              "image_version": 5,
+              "sort": 0,
+              "download_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/b36/rock-3c_debian_bullseye_cli_b36.img.xz",
+              "download_size": 0,
+              "download_sha256": "",
+              "format": "",
+              "uncompressed_size": "",
+              "uncompressed_sha256": "",
+              "is_test": false,
+              "is_hide": false,
+              "github_url": "",
+              "tags": [],
+              "name": {
+                "zh_CN": "rock-3c_debian_bullseye_cli_b36",
+                "en": ""
+              },
+              "desc": {
+                "zh_CN": "This flavor is quite minimal and is intended for headless usage.",
+                "en": ""
+              }
             }
           ]
         }
       ]
+    },
+    {
+      "id": "ROCK 2 Family",
+      "sort": 11,
+      "is_hide": false,
+      "name": {
+        "zh_CN": "ROCK 2 系列",
+        "en": "ROCK 2 Family"
+      },
+      "desc": {
+        "zh_CN": "",
+        "en": ""
+      },
+      "devices": []
+    },
+    {
+      "id": "ROCK Pi Family",
+      "sort": 10,
+      "is_hide": false,
+      "name": {
+        "zh_CN": "ROCK Pi 系列",
+        "en": "ROCK Pi Family"
+      },
+      "desc": {
+        "zh_CN": "",
+        "en": ""
+      },
+      "devices": []
+    },
+    {
+      "id": "Dragon Family",
+      "sort": 9,
+      "is_hide": false,
+      "name": {
+        "zh_CN": "Dragon 系列",
+        "en": "Dragon Family"
+      },
+      "desc": {
+        "zh_CN": "",
+        "en": ""
+      },
+      "devices": [
+        {
+          "id": "Dragon Q6A",
+          "sort": 0,
+          "pic_url": "https://radxa.com/dragon/q6a/spec_radxa_dragon_q6a_03.webp",
+          "is_hide": false,
+          "name": {
+            "zh_CN": "Dragon Q6A",
+            "en": "Dragon Q6A"
+          },
+          "desc": {
+            "zh_CN": "高通 QCS6490 八核处理器，边缘 AI 的理想平台",
+            "en": "Qualcomm QCS6490 Octa-core Platform for Edge AI"
+          },
+          "images": [
+            {
+              "id": "radxa-dragon-q6a_noble_gnome_r2.output_512",
+              "pic_url": "https://radxa.com/support/radxa-os-logo.webp",
+              "time": "2026-02-14T09:28:10Z",
+              "custom_version": 1,
+              "image_version": "rsdk-r2",
+              "sort": 1,
+              "download_url": "https://github.com/radxa-build/radxa-dragon-q6a/releases/download/rsdk-r2/radxa-dragon-q6a_noble_gnome_r2.output_512.img.xz",
+              "download_size": 1582866836,
+              "download_sha256": "f5ba7d3b34006759b54e14e28f38ec9caaabf6b9a325f4c2c67e6d9fd4412132",
+              "format": "xz",
+              "uncompressed_size": 6003352576,
+              "uncompressed_sha256": "6385ad766ca51214aa9e4ce08f3c367430310b27285164b71b143af341d53900",
+              "is_test": false,
+              "is_hide": false,
+              "github_url": "https://api.github.com/repos/radxa-build/radxa-dragon-q6a/releases/assets/355799098",
+              "tags": [
+                {
+                  "text": {
+                    "zh_CN": "官方",
+                    "en": "official"
+                  },
+                  "fg": "#FFFFFFFF",
+                  "bg": "#FF74BC1F",
+                  "border": "#FF74BC1F"
+                }
+              ],
+              "name": {
+                "zh_CN": "Radxa OS (适用于 MicroSD 卡 / U 盘 / eMMC / NVMe)",
+                "en": "Radxa OS (MicroSD card / USB drive / eMMC / NVMe)"
+              },
+              "desc": {
+                "zh_CN": "Radxa OS 是 Radxa 团队基于 Debian Linux 自主研发的开源操作系统。经过完整的测试，推荐所有人使用。（此版本适用于 MicroSD 卡 / U 盘 / eMMC / NVMe 启动系统。）",
+                "en": "Radxa OS is an open-source operating system independently developed by the Radxa team based on Debian Linux.\nIt has undergone complete testing and is recommended for all users.\n(This version is only applicable to systems booted from UFS.)"
+              }
+            },
+            {
+              "id": "radxa-dragon-q6a_noble_gnome_r2.output_4096",
+              "pic_url": "https://radxa.com/support/radxa-os-logo.webp",
+              "time": "2026-02-14T09:27:27Z",
+              "custom_version": 1,
+              "image_version": "rsdk-r2",
+              "sort": 0,
+              "download_url": "https://gate.radxa.com/radxa-build/radxa-dragon-q6a/releases/download/rsdk-r2/radxa-dragon-q6a_noble_gnome_r2.output_4096.img.xz",
+              "download_size": 1578528436,
+              "download_sha256": "c83ce7f610104f6c0185f88bf10c405acb995f46e95a9c94419065db0cf964cb",
+              "format": "xz",
+              "uncompressed_size": 10737418240,
+              "uncompressed_sha256": "0295d2a4cc5aa9a68c6d098cb9db740e1b28c5337ddaf8266d92ac07bf47bc41",
+              "is_test": false,
+              "is_hide": false,
+              "github_url": "https://api.github.com/repos/radxa-build/radxa-dragon-q6a/releases/assets/355798942",
+              "tags": [
+                {
+                  "text": {
+                    "zh_CN": "官方",
+                    "en": "official"
+                  },
+                  "fg": "#FFFFFFFF",
+                  "bg": "#FF74BC1F",
+                  "border": "#FF74BC1F"
+                }
+              ],
+              "name": {
+                "zh_CN": "Radxa OS (仅适用于UFS)",
+                "en": "Radxa OS (UFS Only)"
+              },
+              "desc": {
+                "zh_CN": "Radxa OS 是 Radxa 团队基于 Debian Linux 自主研发的开源操作系统。经过完整的测试，推荐所有人使用。（此版本仅适用于 UFS 启动的系统。）",
+                "en": "Radxa OS is an open-source operating system independently developed by the Radxa team based on Debian Linux.\nIt has undergone complete testing and is recommended for all users.\n(This version is only applicable to systems booted from UFS.)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ZERO Family",
+      "sort": 8,
+      "is_hide": false,
+      "name": {
+        "zh_CN": "ZERO 系列",
+        "en": "ZERO Family"
+      },
+      "desc": {
+        "zh_CN": "",
+        "en": ""
+      },
+      "devices": [
+        {
+          "id": "zero",
+          "name": {
+            "zh_CN": "zero",
+            "en": "zero"
+          },
+          "sort": 0,
+          "desc": {
+            "zh_CN": "",
+            "en": ""
+          },
+          "images": [
+            {
+              "id": "radxa-zero_trixie_kde_t3",
+              "name": {
+                "zh_CN": "radxa-zero_trixie_kde_t3",
+                "en": "radxa-zero_trixie_kde_t3"
+              },
+              "desc": {
+                "zh_CN": "镜像 radxa-zero_trixie_kde_t3 的描述",
+                "en": "Description for image radxa-zero_trixie_kde_t3"
+              },
+              "pic_url": "",
+              "time": "2026-01-20T09:43:02Z",
+              "custom_version": 0,
+              "sort": 999,
+              "download_url": "https://gate.radxa.com/radxa-build/radxa-zero/releases/download/rsdk-t3/radxa-zero_trixie_kde_t3.output_512.img.xz",
+              "download_size": 1336579136,
+              "download_sha256": "7e561fd85df06d1c3965067134b5b1e003a12566087ac19da5aea72895487690",
+              "format": "xz",
+              "uncompressed_size": 7534810112,
+              "uncompressed_sha256": "bb1555d71a652c5bff1a00e2f7c045540f21fad28a075f532e0e00644c6ed40d",
+              "is_test": true,
+              "is_hide": false,
+              "github_url": "https://api.github.com/repos/radxa-build/radxa-zero/releases/assets/343209150",
+              "image_version": "rsdk-t3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Orion Family",
+      "sort": 7,
+      "is_hide": false,
+      "name": {
+        "zh_CN": "Orion 系列",
+        "en": "Orion Family"
+      },
+      "devices": [
+        {
+          "id": "Orion O6N",
+          "sort": 1,
+          "pic_url": "https://radxa.com/orion/o6n/banner_radxa_orion_o6n.webp",
+          "is_hide": false,
+          "name": {
+            "zh_CN": "星睿 O6N",
+            "en": "Orion O6N"
+          },
+          "desc": {
+            "zh_CN": "全球首款开源 Arm v9 主板，如今小巧登场",
+            "en": "The World’s First Open Source Arm v9 Motherboard, Now Even Smaller"
+          },
+          "images": [
+            {
+              "id": "Radxa_orion_o6n-Andrid14-r3.4-20251124-gpt",
+              "name": {
+                "zh_CN": "Radxa_orion_o6n-Andrid14-r3.4-20251124-gpt",
+                "en": "Radxa_orion_o6n-Andrid14-r3.4-20251124-gpt"
+              },
+              "desc": {
+                "zh_CN": "镜像 Radxa_orion_o6n-Andrid14-r3.4-20251124-gpt 的描述",
+                "en": "Description for image Radxa_orion_o6n-Andrid14-r3.4-20251124-gpt"
+              },
+              "pic_url": "",
+              "time": "2025-11-25T11:35:49Z",
+              "custom_version": 0,
+              "sort": 999,
+              "download_url": "https://gate.radxa.com/radxa/cix-android-manifests/releases/download/radxa-orion-o6n-android14-rc3.4-20251124/Radxa_orion_o6n-Andrid14-r3.4-20251124-gpt.zip",
+              "download_size": 913986843,
+              "download_sha256": "047d4fdb121f508b77a51f1ca817f0f4f938166754832d003b06566f44035e89",
+              "format": "zip",
+              "uncompressed_size": 2690646016,
+              "uncompressed_sha256": "d585c5c02d3a52a5b2ac4442daec000276d73a5604ce308b9286dc09f89b2f1d",
+              "is_test": false,
+              "is_hide": false,
+              "github_url": "https://api.github.com/repos/radxa/cix-android-manifests/releases/assets/320629429",
+              "image_version": "radxa-orion-o6n-android14-rc3.4-20251124"
+            }
+          ]
+        },
+        {
+          "id": "Orion O6",
+          "sort": 0,
+          "pic_url": "https://radxa.com/orion/o6/banner_orion_o6.webp",
+          "is_hide": false,
+          "name": {
+            "zh_CN": "星睿 O6",
+            "en": "Orion O6"
+          },
+          "desc": {
+            "zh_CN": "世界上首款开源 Arm V9 主板",
+            "en": "World's First Open Source Arm V9 Motherboard"
+          },
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "NX Series",
+      "sort": 6,
+      "is_hide": false,
+      "name": {
+        "zh_CN": "NX 系列",
+        "en": "NX Series"
+      },
+      "desc": {
+        "zh_CN": "",
+        "en": ""
+      },
+      "devices": [
+        {
+          "id": "NX4",
+          "sort": 1,
+          "pic_url": "https://radxa.com/nx/nx4/banner_radxa_nx4.webp",
+          "is_hide": false,
+          "name": {
+            "zh_CN": "NX4",
+            "en": "NX4"
+          },
+          "desc": {
+            "zh_CN": "高效率，低功耗，超高性价比！",
+            "en": "High Efficiency, Low Power, Incredible value!"
+          },
+          "images": [
+            {
+              "id": "radxa-rk3576_bookworm_kde_r5.output_512",
+              "pic_url": "https://radxa.com/support/radxa-os-logo.webp",
+              "time": "2025-12-16T13:04:05Z",
+              "custom_version": 1,
+              "image_version": "rsdk-r5",
+              "sort": 0,
+              "download_url": "https://github.com/radxa-build/radxa-rk3576/releases/download/rsdk-r5/radxa-rk3576_bookworm_kde_r5.output_512.img.xz",
+              "download_size": 1461387836,
+              "download_sha256": "6fc57ab9034f9179d91afa742b2d6bae8b51b06a62d45d0410c0139216e65d48",
+              "format": "xz",
+              "uncompressed_size": 8112333824,
+              "uncompressed_sha256": "2db03c65b41ef52f641f4c6e5946adcea292f7bd187ec0885e3c3bdc0ec04aab",
+              "is_test": false,
+              "is_hide": false,
+              "github_url": "https://api.github.com/repos/radxa-build/radxa-rk3576/releases/assets/329348540",
+              "tags": [],
+              "name": {
+                "zh_CN": "radxa-rk3576_bookworm_kde_r5.output_512",
+                "en": "radxa-rk3576_bookworm_kde_r5.output_512"
+              },
+              "desc": {
+                "zh_CN": "镜像 radxa-rk3576_bookworm_kde_r5.output_512 的描述",
+                "en": "Description for image radxa-rk3576_bookworm_kde_r5.output_512"
+              }
+            }
+          ]
+        },
+        {
+          "id": "Orin NX",
+          "sort": 0,
+          "pic_url": "https://radxa.com/nx/c200/overview/head-view.webp",
+          "is_hide": false,
+          "name": {
+            "zh_CN": "C200 Orin",
+            "en": "C200 Orin"
+          },
+          "desc": {
+            "zh_CN": "助力新一代机器人与边缘 AI",
+            "en": "Next-level AI Performance for Next-gen Robotics and Edge Solutions"
+          },
+          "images": [
+            {
+              "id": "r36_Release_v4.4-jp62-r1-orin-nano-sd-card-image",
+              "pic_url": "https://radxa.com/support/ubuntu-logo.webp",
+              "time": "2026-03-04T02:36:11Z",
+              "custom_version": 0,
+              "image_version": "",
+              "sort": 0,
+              "download_url": "https://developer.nvidia.com/downloads/embedded/L4T/r36_Release_v4.4/jp62-r1-orin-nano-sd-card-image.zip",
+              "download_size": 11725610175,
+              "download_sha256": "3cfaa8346b96aa82529cdb72faf4550cbb43ecee1efc6f1b616d52dfe199916d",
+              "format": "zip",
+              "uncompressed_size": 24086839296,
+              "uncompressed_sha256": "f9a4a32021cee3b45af5fc2015d044eb99dc2adbc0640bb46202dc8865e67894",
+              "is_test": false,
+              "is_hide": false,
+              "github_url": "",
+              "tags": [],
+              "name": {
+                "zh_CN": "r36_Release_v4.4-jp62-r1-orin-nano-sd-card-image",
+                "en": "r36_Release_v4.4-jp62-r1-orin-nano-sd-card-image"
+              },
+              "desc": {
+                "zh_CN": "镜像 r36_Release_v4.4-jp62-r1-orin-nano-sd-card-image 的描述",
+                "en": "Description for image r36_Release_v4.4-jp62-r1-orin-nano-sd-card-image"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Fogwise Family",
+      "sort": 5,
+      "is_hide": false,
+      "name": {
+        "zh_CN": "Fogwise® 系列",
+        "en": "Fogwise® Family"
+      },
+      "desc": {
+        "zh_CN": "",
+        "en": ""
+      },
+      "devices": [
+        {
+          "id": "Fogwise AirBox",
+          "sort": 0,
+          "pic_url": "https://radxa.com/fogwise/bm168m/thumb_radxa_fogwise_bm168m.webp",
+          "is_hide": false,
+          "name": {
+            "zh_CN": "Fogwise® AirBox",
+            "en": "Fogwise® AirBox"
+          },
+          "desc": {
+            "zh_CN": "",
+            "en": ""
+          },
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "CM Series",
+      "sort": 4,
+      "is_hide": false,
+      "name": {
+        "zh_CN": "CM 系列",
+        "en": "CM Series"
+      },
+      "desc": {
+        "zh_CN": "",
+        "en": ""
+      },
+      "devices": []
+    },
+    {
+      "id": "E Family",
+      "sort": 3,
+      "is_hide": false,
+      "name": {
+        "zh_CN": "E 系列",
+        "en": "E Family"
+      },
+      "desc": {
+        "zh_CN": "",
+        "en": ""
+      },
+      "devices": []
+    },
+    {
+      "id": "NIO Family",
+      "sort": 2,
+      "is_hide": false,
+      "name": {
+        "zh_CN": "NIO 系列",
+        "en": "NIO Family"
+      },
+      "desc": {
+        "zh_CN": "",
+        "en": ""
+      },
+      "devices": []
+    },
+    {
+      "id": "SiRider Family",
+      "sort": 1,
+      "is_hide": false,
+      "name": {
+        "zh_CN": "SiRider 系列",
+        "en": "SiRider Family"
+      },
+      "desc": {
+        "zh_CN": "",
+        "en": ""
+      },
+      "devices": []
+    },
+    {
+      "id": "Cubie Family",
+      "sort": 0,
+      "is_hide": false,
+      "name": {
+        "zh_CN": "Cubie 系列",
+        "en": "Cubie Family"
+      },
+      "desc": {
+        "zh_CN": "",
+        "en": ""
+      },
+      "devices": []
     }
   ],
   "latest": "v0.2.4",
