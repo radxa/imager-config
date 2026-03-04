@@ -1,0 +1,26 @@
+{
+    "id": "radxa-rk3576_bookworm_kde_r5.output_512",
+    "pic_url": "https://radxa.com/support/radxa-os-logo.webp",
+    "time": "2025-12-16T13:04:05Z",
+    "custom_version": 1,
+    "image_version": "rsdk-r5",
+    "sort": 0,
+    "download_url": "https://github.com/radxa-build/radxa-rk3576/releases/download/rsdk-r5/radxa-rk3576_bookworm_kde_r5.output_512.img.xz",
+    "download_size": 1461387836,
+    "download_sha256": "6fc57ab9034f9179d91afa742b2d6bae8b51b06a62d45d0410c0139216e65d48",
+    "format": "xz",
+    "uncompressed_size": 8112333824,
+    "uncompressed_sha256": "2db03c65b41ef52f641f4c6e5946adcea292f7bd187ec0885e3c3bdc0ec04aab",
+    "is_test": false,
+    "is_hide": false,
+    "github_url": "https://api.github.com/repos/radxa-build/radxa-rk3576/releases/assets/329348540",
+    "tags": [],
+    "name": {
+        "zh_CN": "radxa-rk3576_bookworm_kde_r5.output_512",
+        "en": "radxa-rk3576_bookworm_kde_r5.output_512"
+    },
+    "desc": {
+        "zh_CN": "镜像 radxa-rk3576_bookworm_kde_r5.output_512 的描述",
+        "en": "Description for image radxa-rk3576_bookworm_kde_r5.output_512"
+    }
+}

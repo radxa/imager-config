@@ -1,0 +1,26 @@
+{
+    "id": "rock-3c_bookworm_kde_b1.output_512",
+    "pic_url": "https://imager.radxa.com/image/debian.svg",
+    "time": "2025-07-15T04:20:28Z",
+    "custom_version": 1,
+    "image_version": "rsdk-b1",
+    "sort": 5,
+    "download_url": "https://gate.radxa.com/radxa-build/rock-3c/releases/download/rsdk-b1/rock-3c_bookworm_kde_b1.output_512.img.xz",
+    "download_size": 1458587252,
+    "download_sha256": "3b0ae37c364e0c63efeed5b69e8e1aa827c12a695d872bee37c9b55460a2264a",
+    "format": "xz",
+    "uncompressed_size": 8076194816,
+    "uncompressed_sha256": "71d623c1b26df710e837c7cc874537c21ecb022a9586e09c066039604a6e1c49",
+    "is_test": false,
+    "is_hide": false,
+    "github_url": "https://api.github.com/repos/radxa-build/rock-3c/releases/assets/272947593",
+    "tags": [],
+    "name": {
+        "zh_CN": "bookworm kde",
+        "en": "bookworm kde"
+    },
+    "desc": {
+        "zh_CN": "镜像 rock-3c_bookworm_kde_b1.output_512 的描述",
+        "en": "Description for image rock-3c_bookworm_kde_b1.output_512"
+    }
+}

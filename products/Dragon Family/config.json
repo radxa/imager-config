@@ -1,0 +1,13 @@
+{
+    "id": "Dragon Family",
+    "sort": 9,
+    "is_hide": false,
+    "name": {
+        "zh_CN": "Dragon 系列",
+        "en": "Dragon Family"
+    },
+    "desc": {
+        "zh_CN": "",
+        "en": ""
+    }
+}

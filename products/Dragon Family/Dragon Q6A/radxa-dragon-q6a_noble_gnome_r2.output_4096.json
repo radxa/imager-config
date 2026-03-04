@@ -1,0 +1,36 @@
+{
+    "id": "radxa-dragon-q6a_noble_gnome_r2.output_4096",
+    "pic_url": "https://radxa.com/support/radxa-os-logo.webp",
+    "time": "2026-02-14T09:27:27Z",
+    "custom_version": 1,
+    "image_version": "rsdk-r2",
+    "sort": 0,
+    "download_url": "https://gate.radxa.com/radxa-build/radxa-dragon-q6a/releases/download/rsdk-r2/radxa-dragon-q6a_noble_gnome_r2.output_4096.img.xz",
+    "download_size": 1578528436,
+    "download_sha256": "c83ce7f610104f6c0185f88bf10c405acb995f46e95a9c94419065db0cf964cb",
+    "format": "xz",
+    "uncompressed_size": 10737418240,
+    "uncompressed_sha256": "0295d2a4cc5aa9a68c6d098cb9db740e1b28c5337ddaf8266d92ac07bf47bc41",
+    "is_test": false,
+    "is_hide": false,
+    "github_url": "https://api.github.com/repos/radxa-build/radxa-dragon-q6a/releases/assets/355798942",
+    "tags": [
+        {
+            "text": {
+                "zh_CN": "官方",
+                "en": "official"
+            },
+            "fg": "#FFFFFFFF",
+            "bg": "#FF74BC1F",
+            "border": "#FF74BC1F"
+        }
+    ],
+    "name": {
+        "zh_CN": "Radxa OS (仅适用于UFS)",
+        "en": "Radxa OS (UFS Only)"
+    },
+    "desc": {
+        "zh_CN": "Radxa OS 是 Radxa 团队基于 Debian Linux 自主研发的开源操作系统。经过完整的测试，推荐所有人使用。（此版本仅适用于 UFS 启动的系统。）",
+        "en": "Radxa OS is an open-source operating system independently developed by the Radxa team based on Debian Linux.\nIt has undergone complete testing and is recommended for all users.\n(This version is only applicable to systems booted from UFS.)"
+    }
+}

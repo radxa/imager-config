@@ -1,0 +1,36 @@
+{
+    "id": "radxa-dragon-q6a_noble_gnome_r2.output_512",
+    "pic_url": "https://radxa.com/support/radxa-os-logo.webp",
+    "time": "2026-02-14T09:28:10Z",
+    "custom_version": 1,
+    "image_version": "rsdk-r2",
+    "sort": 1,
+    "download_url": "https://github.com/radxa-build/radxa-dragon-q6a/releases/download/rsdk-r2/radxa-dragon-q6a_noble_gnome_r2.output_512.img.xz",
+    "download_size": 1582866836,
+    "download_sha256": "f5ba7d3b34006759b54e14e28f38ec9caaabf6b9a325f4c2c67e6d9fd4412132",
+    "format": "xz",
+    "uncompressed_size": 6003352576,
+    "uncompressed_sha256": "6385ad766ca51214aa9e4ce08f3c367430310b27285164b71b143af341d53900",
+    "is_test": false,
+    "is_hide": false,
+    "github_url": "https://api.github.com/repos/radxa-build/radxa-dragon-q6a/releases/assets/355799098",
+    "tags": [
+        {
+            "text": {
+                "zh_CN": "官方",
+                "en": "official"
+            },
+            "fg": "#FFFFFFFF",
+            "bg": "#FF74BC1F",
+            "border": "#FF74BC1F"
+        }
+    ],
+    "name": {
+        "zh_CN": "Radxa OS (适用于 MicroSD 卡 / U 盘 / eMMC / NVMe)",
+        "en": "Radxa OS (MicroSD card / USB drive / eMMC / NVMe)"
+    },
+    "desc": {
+        "zh_CN": "Radxa OS 是 Radxa 团队基于 Debian Linux 自主研发的开源操作系统。经过完整的测试，推荐所有人使用。（此版本适用于 MicroSD 卡 / U 盘 / eMMC / NVMe 启动系统。）",
+        "en": "Radxa OS is an open-source operating system independently developed by the Radxa team based on Debian Linux.\nIt has undergone complete testing and is recommended for all users.\n(This version is only applicable to systems booted from UFS.)"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "id": "Fogwise AirBox",
+    "sort": 0,
+    "pic_url": "https://radxa.com/fogwise/bm168m/thumb_radxa_fogwise_bm168m.webp",
+    "is_hide": false,
+    "name": {
+        "zh_CN": "Fogwise® AirBox",
+        "en": "Fogwise® AirBox"
+    },
+    "desc": {
+        "zh_CN": "",
+        "en": ""
+    }
+}

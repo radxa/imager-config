@@ -1,0 +1,14 @@
+{
+    "id": "Dragon Q6A",
+    "sort": 0,
+    "pic_url": "https://radxa.com/dragon/q6a/spec_radxa_dragon_q6a_03.webp",
+    "is_hide": false,
+    "name": {
+        "zh_CN": "Dragon Q6A",
+        "en": "Dragon Q6A"
+    },
+    "desc": {
+        "zh_CN": "高通 QCS6490 八核处理器，边缘 AI 的理想平台",
+        "en": "Qualcomm QCS6490 Octa-core Platform for Edge AI"
+    }
+}

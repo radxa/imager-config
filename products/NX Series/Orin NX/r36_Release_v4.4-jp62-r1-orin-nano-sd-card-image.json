@@ -1,0 +1,26 @@
+{
+    "id": "r36_Release_v4.4-jp62-r1-orin-nano-sd-card-image",
+    "pic_url": "https://radxa.com/support/ubuntu-logo.webp",
+    "time": "2026-03-04T02:36:11Z",
+    "custom_version": 0,
+    "image_version": "",
+    "sort": 0,
+    "download_url": "https://developer.nvidia.com/downloads/embedded/L4T/r36_Release_v4.4/jp62-r1-orin-nano-sd-card-image.zip",
+    "download_size": 11725610175,
+    "download_sha256": "3cfaa8346b96aa82529cdb72faf4550cbb43ecee1efc6f1b616d52dfe199916d",
+    "format": "zip",
+    "uncompressed_size": 24086839296,
+    "uncompressed_sha256": "f9a4a32021cee3b45af5fc2015d044eb99dc2adbc0640bb46202dc8865e67894",
+    "is_test": false,
+    "is_hide": false,
+    "github_url": "",
+    "tags": [],
+    "name": {
+        "zh_CN": "r36_Release_v4.4-jp62-r1-orin-nano-sd-card-image",
+        "en": "r36_Release_v4.4-jp62-r1-orin-nano-sd-card-image"
+    },
+    "desc": {
+        "zh_CN": "镜像 r36_Release_v4.4-jp62-r1-orin-nano-sd-card-image 的描述",
+        "en": "Description for image r36_Release_v4.4-jp62-r1-orin-nano-sd-card-image"
+    }
+}

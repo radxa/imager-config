@@ -1,0 +1,14 @@
+{
+    "id": "Orin NX",
+    "sort": 0,
+    "pic_url": "https://radxa.com/nx/c200/overview/head-view.webp",
+    "is_hide": false,
+    "name": {
+        "zh_CN": "C200 Orin",
+        "en": "C200 Orin"
+    },
+    "desc": {
+        "zh_CN": "助力新一代机器人与边缘 AI",
+        "en": "Next-level AI Performance for Next-gen Robotics and Edge Solutions"
+    }
+}

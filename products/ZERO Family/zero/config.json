@@ -1,0 +1,12 @@
+{
+    "id": "zero",
+    "name": {
+        "zh_CN": "zero",
+        "en": "zero"
+    },
+    "sort": 0,
+    "desc": {
+        "zh_CN": "",
+        "en": ""
+    }
+}

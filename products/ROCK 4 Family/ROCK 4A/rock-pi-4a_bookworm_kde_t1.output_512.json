@@ -1,0 +1,25 @@
+{
+    "id": "rock-pi-4a_bookworm_kde_t1.output_512",
+    "name": {
+        "zh_CN": "rock-pi-4a_bookworm_kde_t1.output_512",
+        "en": "rock-pi-4a_bookworm_kde_t1.output_512"
+    },
+    "desc": {
+        "zh_CN": "镜像 rock-pi-4a_bookworm_kde_t1.output_512 的描述",
+        "en": "Description for image rock-pi-4a_bookworm_kde_t1.output_512"
+    },
+    "pic_url": "",
+    "time": "2025-09-12T04:46:57Z",
+    "custom_version": 0,
+    "sort": 999,
+    "download_url": "https://gate.radxa.com/radxa-build/rock-pi-4a/releases/download/rsdk-t1/rock-pi-4a_bookworm_kde_t1.output_512.img.xz",
+    "download_size": 1418749628,
+    "download_sha256": "eb39b348703f42c2052cda1ba8c992c4f1a6c6249ff2326081bc229fc751744d",
+    "format": "xz",
+    "uncompressed_size": 7859569664,
+    "uncompressed_sha256": "0d6335f49ad8e9c710724a8bd143d39e2fedf2ca496a822f7d9f6e6ae1a4f483",
+    "is_test": true,
+    "is_hide": false,
+    "github_url": "https://api.github.com/repos/radxa-build/rock-pi-4a/releases/assets/292402748",
+    "image_version": "rsdk-t1"
+}

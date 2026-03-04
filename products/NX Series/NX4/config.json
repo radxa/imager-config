@@ -1,0 +1,14 @@
+{
+    "id": "NX4",
+    "sort": 1,
+    "pic_url": "https://radxa.com/nx/nx4/banner_radxa_nx4.webp",
+    "is_hide": false,
+    "name": {
+        "zh_CN": "NX4",
+        "en": "NX4"
+    },
+    "desc": {
+        "zh_CN": "高效率，低功耗，超高性价比！",
+        "en": "High Efficiency, Low Power, Incredible value!"
+    }
+}

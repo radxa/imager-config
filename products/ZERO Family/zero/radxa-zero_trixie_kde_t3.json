@@ -1,0 +1,25 @@
+{
+    "id": "radxa-zero_trixie_kde_t3",
+    "name": {
+        "zh_CN": "radxa-zero_trixie_kde_t3",
+        "en": "radxa-zero_trixie_kde_t3"
+    },
+    "desc": {
+        "zh_CN": "镜像 radxa-zero_trixie_kde_t3 的描述",
+        "en": "Description for image radxa-zero_trixie_kde_t3"
+    },
+    "pic_url": "",
+    "time": "2026-01-20T09:43:02Z",
+    "custom_version": 0,
+    "sort": 999,
+    "download_url": "https://gate.radxa.com/radxa-build/radxa-zero/releases/download/rsdk-t3/radxa-zero_trixie_kde_t3.output_512.img.xz",
+    "download_size": 1336579136,
+    "download_sha256": "7e561fd85df06d1c3965067134b5b1e003a12566087ac19da5aea72895487690",
+    "format": "xz",
+    "uncompressed_size": 7534810112,
+    "uncompressed_sha256": "bb1555d71a652c5bff1a00e2f7c045540f21fad28a075f532e0e00644c6ed40d",
+    "is_test": true,
+    "is_hide": false,
+    "github_url": "https://api.github.com/repos/radxa-build/radxa-zero/releases/assets/343209150",
+    "image_version": "rsdk-t3"
+}
