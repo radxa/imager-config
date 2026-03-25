@@ -12,8 +12,10 @@ jobs:
       - name: Deploy
         run: |
           cp test/data.json prod/data.json
+          cp test/news.json prod/news.json
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add prod/data.json
+          git add prod/news.json
           git commit -m "Auto Deploy"
           git push
