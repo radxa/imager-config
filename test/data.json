@@ -262,42 +262,7 @@
             "zh_CN": "一台功能丰富的工业嵌入式SBC",
             "en": "An Pico-ITX form factor SBC with Multifunctional Interface"
           },
-          "images": [
-            {
-              "id": "rock-3b_debian_bullseye_cli_b18",
-              "name": "rock-3b_debian_bullseye_cli_b18",
-              "size": 445774764,
-              "pic_url": "https://imager.radxa.com/image/debian.svg",
-              "desc": "This flavor is quite minimal and is intended for headless usage.",
-              "time": "2023-10-12",
-              "edit": true,
-              "edit_version": 1,
-              "hide": false,
-              "checksum_method": "sha512",
-              "checksum_file": "url",
-              "checksum_url": "https://gate.radxa.com/radxa-build/rock-3b/releases/download/b18/rock-3b_debian_bullseye_cli_b18.img.sha512",
-              "extension": "xz",
-              "download_url": "https://gate.radxa.com/radxa-build/rock-3b/releases/download/b18/rock-3b_debian_bullseye_cli_b18.img.xz",
-              "sort": "2"
-            },
-            {
-              "id": "rock-3b_debian_bullseye_xfce_b18",
-              "name": "rock-3b_debian_bullseye_xfce_b18",
-              "size": 1137808484,
-              "pic_url": "https://imager.radxa.com/image/debian.svg",
-              "desc": "This flavor is officially supported, tested, and recommended for all users.",
-              "time": "2023-10-12",
-              "edit": true,
-              "edit_version": 1,
-              "hide": false,
-              "checksum_method": "sha512",
-              "checksum_file": "url",
-              "checksum_url": "https://gate.radxa.com/radxa-build/rock-3b/releases/download/b18/rock-3b_debian_bullseye_xfce_b18.img.sha512",
-              "extension": "xz",
-              "download_url": "https://gate.radxa.com/radxa-build/rock-3b/releases/download/b18/rock-3b_debian_bullseye_xfce_b18.img.xz",
-              "sort": "1"
-            }
-          ]
+          "images": []
         },
         {
           "id": "ROCK 3C",
