@@ -583,6 +583,45 @@
       },
       "devices": [
         {
+          "id": "zero2_pro",
+          "name": {
+            "zh_CN": "ZERO 2 Pro",
+            "en": "ZERO 2 Pro"
+          },
+          "sort": 1,
+          "desc": {
+            "zh_CN": "",
+            "en": ""
+          },
+          "images": [
+            {
+              "id": "radxa-zero-2pro_trixie_kde_r2",
+              "name": {
+                "zh_CN": "radxa-zero-2pro_trixie_kde_r2",
+                "en": "radxa-zero-2pro_trixie_kde_r2"
+              },
+              "desc": {
+                "zh_CN": "镜像 radxa-zero-2pro_trixie_kde_r2 的描述",
+                "en": "Description for image radxa-zero-2pro_trixie_kde_r2"
+              },
+              "pic_url": "",
+              "time": "2026-03-31T10:40:00Z",
+              "custom_version": 0,
+              "sort": 999,
+              "download_url": "https://github.com/radxa-build/radxa-zero-2pro/releases/download/rsdk-r2/radxa-zero-2pro_trixie_kde_r2.output_512.img.xz",
+              "download_size": 1275061824,
+              "download_sha256": "78c832b7ac54c0df0a7a201fbd0faf7a3cfd0110b45be6881610b1e2618470b9",
+              "format": "xz",
+              "uncompressed_size": 7516192768,
+              "uncompressed_sha256": "229888a95ccb7ef7e43e2b79059764552d66b98e261a13e51d78ad0a1e2290e1",
+              "is_test": true,
+              "is_hide": false,
+              "github_url": "",
+              "image_version": "rsdk-r2"
+            }
+          ]
+        },
+        {
           "id": "zero",
           "name": {
             "zh_CN": "zero",
